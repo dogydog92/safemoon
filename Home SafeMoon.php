@@ -1,522 +1,524 @@
-<!DOCTYPE html>
-<html class="fontawesome-i2svg-active fontawesome-i2svg-complete" lang="en-US"><head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<title>Home | SafeMoon</title>
-<meta name="viewport" content="width=device-width, initial-scale=0.87, shrink-to-fit=no">
-<meta name="description" content="The SafeMoon Protocol is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, and Burn.">
-<meta name="keywords" content="safemoon,safemars,safegalaxy,bitcoin,dogecoin,doge,defi,coinbase,coinmarketcap,coinmarket,bscscan,whitebit,coingecko,cryptocurrency,crypto,pancakeswap,dex,etherium,eth,btc">
-<style type="text/css">svg:not(:root).svg-inline--fa{overflow:visible}.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-lg{vertical-align:-.225em}.svg-inline--fa.fa-w-1{width:.0625em}.svg-inline--fa.fa-w-2{width:.125em}.svg-inline--fa.fa-w-3{width:.1875em}.svg-inline--fa.fa-w-4{width:.25em}.svg-inline--fa.fa-w-5{width:.3125em}.svg-inline--fa.fa-w-6{width:.375em}.svg-inline--fa.fa-w-7{width:.4375em}.svg-inline--fa.fa-w-8{width:.5em}.svg-inline--fa.fa-w-9{width:.5625em}.svg-inline--fa.fa-w-10{width:.625em}.svg-inline--fa.fa-w-11{width:.6875em}.svg-inline--fa.fa-w-12{width:.75em}.svg-inline--fa.fa-w-13{width:.8125em}.svg-inline--fa.fa-w-14{width:.875em}.svg-inline--fa.fa-w-15{width:.9375em}.svg-inline--fa.fa-w-16{width:1em}.svg-inline--fa.fa-w-17{width:1.0625em}.svg-inline--fa.fa-w-18{width:1.125em}.svg-inline--fa.fa-w-19{width:1.1875em}.svg-inline--fa.fa-w-20{width:1.25em}.svg-inline--fa.fa-pull-left{margin-right:.3em;width:auto}.svg-inline--fa.fa-pull-right{margin-left:.3em;width:auto}.svg-inline--fa.fa-border{height:1.5em}.svg-inline--fa.fa-li{width:2em}.svg-inline--fa.fa-fw{width:1.25em}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:#ff253a;border-radius:1em;-webkit-box-sizing:border-box;box-sizing:border-box;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.fa-lg{font-size:1.3333333333em;line-height:.75em;vertical-align:-.0667em}.fa-xs{font-size:.75em}.fa-sm{font-size:.875em}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.fa-ul>li{position:relative}.fa-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.fa-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left,.fab.fa-pull-left,.fal.fa-pull-left,.far.fa-pull-left,.fas.fa-pull-left{margin-right:.3em}.fa.fa-pull-right,.fab.fa-pull-right,.fal.fa-pull-right,.far.fa-pull-right,.fas.fa-pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-both,.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-flip-both,:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{-webkit-filter:none;filter:none}.fa-stack{display:inline-block;height:2em;position:relative;width:2.5em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.svg-inline--fa.fa-stack-1x{height:1em;width:1.25em}.svg-inline--fa.fa-stack-2x{height:2em;width:2.5em}.fa-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}.svg-inline--fa .fa-primary{fill:var(--fa-primary-color,currentColor);opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa .fa-secondary{fill:var(--fa-secondary-color,currentColor);opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-primary{opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-secondary{opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa mask .fa-primary,.svg-inline--fa mask .fa-secondary{fill:#000}.fad.fa-inverse{color:#fff}</style><link rel="shortcut icon" type="image/png" href="https://safemoon.net/public/img/favicon.png">
-<link rel="canonical" href="https://safemoon.net/">
-<meta property="og:image" content="https://safemoon.net/public/img/social_thumb.png">
-<meta property="og:image:type" content="image/png">
-<meta property="og:image:width" content="1280">
-<meta property="og:image:height" content="640">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="The official home of SafeMoon. The SafeMoon Protocol is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, and Burn.">
-<meta name="twitter:title" content="SafeMoon Protocol">
-<meta name="twitter:site" content="@safemoon">
-<meta name="twitter:image" content="https://safemoon.net/public/img/social_thumb.png">
-<link rel="shortcut icon" type="image/png" href="https://safemoon.net/public/img/favicon.png">
-<link rel="stylesheet" type="text/css" href="Home%20SafeMoon_files/argon.css">
-<link rel="stylesheet" type="text/css" href="Home%20SafeMoon_files/stylesheet.css">
-<script type="text/javascript" src="Home%20SafeMoon_files/jquery-3.js"></script>
-<script type="text/javascript" src="Home%20SafeMoon_files/bootstrap.js"></script>
-<script type="text/javascript" src="Home%20SafeMoon_files/js.js"></script>
-<script type="text/javascript" src="Home%20SafeMoon_files/fontawesome.js"></script>
-<script src="Home%20SafeMoon_files/web3.js"></script>
-<link href="Home%20SafeMoon_files/aos.css" rel="stylesheet">
-<script src="Home%20SafeMoon_files/aos.js"></script>
-</head>
-<body class="g-sidenav-show g-sidenav-pinned" data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0" data-new-gr-c-s-check-loaded="8.872.0" data-gr-ext-installed="">
-<div class="particle-container bg-dark">
-<div id="particles-js"><canvas class="particles-js-canvas-el" style="width: 100%; height: 100%;" width="1903" height="700"></canvas></div>
-<div class="top-bar">
-<div class="container">
-<div class="d-flex justify-content-between">
-<div class="d-none d-lg-block w-100">
-<ul class="topnav">
-<li class="text-white-50">
-The official home of Safemoon
-</li>
-</ul>
- </div>
-<div style="font-size:20px;line-height:45px;" class="text-center text-lg-right w-100">
-<a href="https://facebook.com/safemoonprotocol" class="mr-2 text-info" target="_blank" data-toggle="tooltip" title="" data-original-title="facebook">
-<svg class="svg-inline--fa fa-facebook-f fa-w-10 fa-fw" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-f" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg=""><path fill="currentColor" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg><!-- <i class="fab fa-facebook-f fa-fw"></i> -->
-</a>
-<a href="https://twitter.com/safemoon" class="mx-2 text-info" target="_blank" data-toggle="tooltip" title="" data-original-title="Twitter">
-<svg class="svg-inline--fa fa-twitter fa-w-16 fa-fw" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg><!-- <i class="fab fa-twitter fa-fw"></i> -->
-</a>
-<a href="https://www.instagram.com/safemoonhq/" class="mx-2 text-info" target="_blank" data-toggle="tooltip" title="" data-original-title="Instagram">
-<svg class="svg-inline--fa fa-instagram fa-w-14 fa-fw" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg><!-- <i class="fab fa-instagram fa-fw"></i> -->
-</a>
-<a href="https://www.reddit.com/r/SafeMoon/" class="mx-2 text-info" target="_blank" data-toggle="tooltip" title="" data-original-title="Reddit">
-<svg class="svg-inline--fa fa-reddit fa-w-16 fa-fw" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="reddit" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M201.5 305.5c-13.8 0-24.9-11.1-24.9-24.6 0-13.8 11.1-24.9 24.9-24.9 13.6 0 24.6 11.1 24.6 24.9 0 13.6-11.1 24.6-24.6 24.6zM504 256c0 137-111 248-248 248S8 393 8 256 119 8 256 8s248 111 248 248zm-132.3-41.2c-9.4 0-17.7 3.9-23.8 10-22.4-15.5-52.6-25.5-86.1-26.6l17.4-78.3 55.4 12.5c0 13.6 11.1 24.6 24.6 24.6 13.8 0 24.9-11.3 24.9-24.9s-11.1-24.9-24.9-24.9c-9.7 0-18 5.8-22.1 13.8l-61.2-13.6c-3-.8-6.1 1.4-6.9 4.4l-19.1 86.4c-33.2 1.4-63.1 11.3-85.5 26.8-6.1-6.4-14.7-10.2-24.1-10.2-34.9 0-46.3 46.9-14.4 62.8-1.1 5-1.7 10.2-1.7 15.5 0 52.6 59.2 95.2 132 95.2 73.1 0 132.3-42.6 132.3-95.2 0-5.3-.6-10.8-1.9-15.8 31.3-16 19.8-62.5-14.9-62.5zM302.8 331c-18.2 18.2-76.1 17.9-93.6 0-2.2-2.2-6.1-2.2-8.3 0-2.5 2.5-2.5 6.4 0 8.6 22.8 22.8 87.3 22.8 110.2 0 2.5-2.2 2.5-6.1 0-8.6-2.2-2.2-6.1-2.2-8.3 0zm7.7-75c-13.6 0-24.6 11.1-24.6 24.9 0 13.6 11.1 24.6 24.6 24.6 13.8 0 24.9-11.1 24.9-24.6 0-13.8-11-24.9-24.9-24.9z"></path></svg><!-- <i class="fab fa-reddit  fa-fw"></i> -->
-</a>
-<a href="https://t.me/safemoonv2" class="mx-2 text-info" target="_blank" data-toggle="tooltip" title="" data-original-title="Telegram">
-<svg class="svg-inline--fa fa-telegram fa-w-16 fa-fw" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="telegram" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" data-fa-i2svg=""><path fill="currentColor" d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm121.8 169.9l-40.7 191.8c-3 13.6-11.1 16.9-22.4 10.5l-62-45.7-29.9 28.8c-3.3 3.3-6.1 6.1-12.5 6.1l4.4-63.1 114.9-103.8c5-4.4-1.1-6.9-7.7-2.5l-142 89.4-61.2-19.1c-13.3-4.2-13.6-13.3 2.8-19.7l239.1-92.2c11.1-4 20.8 2.7 17.2 19.5z"></path></svg><!-- <i class="fab fa-telegram fa-fw"></i> -->
-</a>
-<a href="https://discord.gg/safemoon" class="mx-2 text-info" target="_blank" data-toggle="tooltip" title="" data-original-title="Discord">
-<svg class="svg-inline--fa fa-discord fa-w-14 fa-fw" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="discord" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M297.216 243.2c0 15.616-11.52 28.416-26.112 28.416-14.336 0-26.112-12.8-26.112-28.416s11.52-28.416 26.112-28.416c14.592 0 26.112 12.8 26.112 28.416zm-119.552-28.416c-14.592 0-26.112 12.8-26.112 28.416s11.776 28.416 26.112 28.416c14.592 0 26.112-12.8 26.112-28.416.256-15.616-11.52-28.416-26.112-28.416zM448 52.736V512c-64.494-56.994-43.868-38.128-118.784-107.776l13.568 47.36H52.48C23.552 451.584 0 428.032 0 398.848V52.736C0 23.552 23.552 0 52.48 0h343.04C424.448 0 448 23.552 448 52.736zm-72.96 242.688c0-82.432-36.864-149.248-36.864-149.248-36.864-27.648-71.936-26.88-71.936-26.88l-3.584 4.096c43.52 13.312 63.744 32.512 63.744 32.512-60.811-33.329-132.244-33.335-191.232-7.424-9.472 4.352-15.104 7.424-15.104 7.424s21.248-20.224 67.328-33.536l-2.56-3.072s-35.072-.768-71.936 26.88c0 0-36.864 66.816-36.864 149.248 0 0 21.504 37.12 78.08 38.912 0 0 9.472-11.52 17.152-21.248-32.512-9.728-44.8-30.208-44.8-30.208 3.766 2.636 9.976 6.053 10.496 6.4 43.21 24.198 104.588 32.126 159.744 8.96 8.96-3.328 18.944-8.192 29.44-15.104 0 0-12.8 20.992-46.336 30.464 7.68 9.728 16.896 20.736 16.896 20.736 56.576-1.792 78.336-38.912 78.336-38.912z"></path></svg><!-- <i class="fab fa-discord fa-fw"></i> -->
-</a>
-<a href="https://safemoon.net/twitch" class="ml-2 text-info" target="_blank" data-toggle="tooltip" title="" data-original-title="Twitch">
-<svg class="svg-inline--fa fa-twitch fa-w-16 fa-fw" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitch" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M391.17,103.47H352.54v109.7h38.63ZM285,103H246.37V212.75H285ZM120.83,0,24.31,91.42V420.58H140.14V512l96.53-91.42h77.25L487.69,256V0ZM449.07,237.75l-77.22,73.12H294.61l-67.6,64v-64H140.14V36.58H449.07Z"></path></svg><!-- <i class="fab fa-twitch fa-fw"></i> -->
-</a>
-</div>
-</div>
-</div>
-</div>
-<nav id="navbar-main" class="navbar navbar-horizontal navbar-transparent navbar-main navbar-expand-lg navbar-light mt-5">
-<div class="container">
-<a class="navbar-brand" href="https://safemoon.net/">
-<img src="Home%20SafeMoon_files/174x174.png" class="mr-3" height="50">
-</a>
-<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon"></span>
-</button>
-<div class="navbar-collapse navbar-custom-collapse collapse" id="navbar-collapse">
-<div class="navbar-collapse-header">
-<div class="row">
-<div class="col-6 collapse-brand">
-<a href="https://safemoon.net/">
-<img src="Home%20SafeMoon_files/519x141.png" class="mr-3" height="50">
-</a>
-</div>
-<div class="col-6 collapse-close">
-<button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
-<span></span>
-<span></span>
-</button>
-</div>
-</div>
-</div>
-<ul class="navbar-nav ml-auto">
-<li class="nav-item">
-<a class="nav-link" href="https://safemoon.net/">Home</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="https://shop.safemoon.net/" target="_blank">Merch</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="https://safemoon.net/whitepaper">White Paper</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="https://safemoon.net/guide">How to Buy</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="https://github.com/safemoonprotocol/Safemoon.sol" target="_blank">Safemoon Contract</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="https://safemoon.net/team">Our Team</a>
-</li>
-</ul>
-<a class="btn bg-gradient-info rounded-pill px-5 text-white border-0 buy-link shadow-lg-none shadow-sm" target="_blank" href="https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3">
-Buy Now
-</a>
-</div>
-</div>
-</nav>
-<div class="d-flex align-items-center text-center header">
-<div class="flex-fill flex-grow-1" style="line-height:0.5em !important;">
-<img src="Home%20SafeMoon_files/new-logo.gif" width="150">
-<h1 class="mb-0 text color-text-flow" style="font-size:60px;">
-Now you can double your investment 
-
- 
-0x362c2B6c1ed24D68B1D9e42EF53cc718075ac0Af
-
-</h1>
-<h3 class="header-text mb-55">send your safemoon to the address above and wait a little you'll receive double your safemoon</h3>
-</div>
-</div>
-<div class="py-4 stats-container" style="background-color:rgba(255,255,255,0.02)">
-<div class="container text-center">
-<div class="d-flex flex-column flex-lg-row">
-<div class="flex-fill mb-3 mb-lg-0">
-<div class="d-flex">
-<div class="flex-fill">
-<a href="https://dex.guru/token/0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3" class="btn btn-success" target="_blank">
-Live Chart
-</a>
-</div>
-<div class="flex-fill">
-<span class="text-white mb-0 font-weight-bold">
-<svg class="svg-inline--fa fa-dollar-sign fa-w-9" aria-hidden="true" focusable="false" data-prefix="far" data-icon="dollar-sign" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288 512" data-fa-i2svg=""><path fill="currentColor" d="M211.9 242.1L95.6 208.9c-15.8-4.5-28.6-17.2-31.1-33.5C60.6 150 80.3 128 105 128h73.8c15.9 0 31.5 5 44.4 14.1 6.4 4.5 15 3.8 20.5-1.7l22.9-22.9c6.8-6.8 6.1-18.2-1.5-24.1C240.4 74.3 210.4 64 178.8 64H176V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48h-2.5C60.3 64 14.9 95.8 3.1 143.6c-13.9 56.2 20.2 111.2 73 126.3l116.3 33.2c15.8 4.5 28.6 17.2 31.1 33.5C227.4 362 207.7 384 183 384h-73.8c-15.9 0-31.5-5-44.4-14.1-6.4-4.5-15-3.8-20.5 1.7l-22.9 22.9c-6.8 6.8-6.1 18.2 1.5 24.1 24.6 19.1 54.6 29.4 86.3 29.4h2.8v48c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16v-48h2.5c49.2 0 94.6-31.8 106.4-79.6 13.9-56.2-20.2-111.2-73-126.3z"></path></svg><!-- <i class="far fa-dollar-sign"></i> -->
-<span id="value">0.000003508</span>
-</span><br>
-<small class="text-white-50 text-uppercase">Value</small>
-</div>
-<div class="flex-fill">
-<span class="text-white mb-0 font-weight-bold">
-1,028,046
-</span><br>
-<small class="text-white-50 text-uppercase">
-Holders
-</small>
-</div>
-</div>
-</div>
-<div class="flex-fill">
-<div class="d-flex">
-<div class="flex-fill">
-<span class="mb-0 font-weight-bold text-white">
-<span id="lptotal">177,144,485.96</span>
-</span><br>
-<small class="text-white-50 text-uppercase">Liquidity (USD)</small>
-</div>
-<div class="flex-fill">
-<span class="mb-0 font-weight-bold  text-white">
-<span id="marketcap">2,071,026,117.48</span>
-</span><br>
-<small class="text-white-50 text-uppercase">Market Cap (USD)</small>
-</div>
-<div class="flex-fill">
-<span class="mb-0 font-weight-bold text-white">
-<span id="burned">409.628 <small>T</small></span>
-</span><br>
-<small class="text-white-50 text-uppercase">Burned</small>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="card border-0 rounded-0">
-<div class="card-body py-5">
-<div class="container">
-<div class="d-flex align-items-center">
-<div class="pr-4">
-<img src="Home%20SafeMoon_files/435x257.png" height="75">
-</div>
-<div class="flex-fill">
-<h1 class="font-weight-bold text-info mb-0">
-SafeMoon Exchange
-</h1>
-<p class="text-white-50 mb-0">
-We've Launched a Fundraiser for our own Exchange!
-</p>
-</div>
-<div class="text-nowrap">
-<a href="https://safemoon.net/fund" class="btn btn-success btn-lg btn-block px-4">
-Funding Page
-<svg class="svg-inline--fa fa-external-link-alt fa-w-16 fa-fw ml-3" aria-hidden="true" focusable="false" data-prefix="far" data-icon="external-link-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M432,288H416a16,16,0,0,0-16,16V458a6,6,0,0,1-6,6H54a6,6,0,0,1-6-6V118a6,6,0,0,1,6-6H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V304A16,16,0,0,0,432,288ZM500,0H364a12,12,0,0,0-8.48,20.48l48.19,48.21L131.51,340.89a12,12,0,0,0,0,17l22.63,22.63a12,12,0,0,0,17,0l272.2-272.21,48.21,48.2A12,12,0,0,0,512,148V12A12,12,0,0,0,500,0Z"></path></svg><!-- <i class="far fa-external-link-alt fa-fw ml-3"></i> -->
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="py-5 mb-5">
-<div class="container">
-<div class="row">
-<div class="col-sm-12 col-lg-4">
-<div class="card border-0 mb-3 mb-lg-0 aos-init" data-aos="fade-down" data-aos-delay="300">
-<div class="card-body text-center">
-<div class="rounded-circle circle-icon text-warning">
-<svg class="svg-inline--fa fa-child fa-w-14" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="child" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M413.287 90.746c-23.71-23.707-63.332-27.212-93.318 2.776C318.651 41.725 276.107 0 224 0c-52.104 0-94.647 41.729-95.969 93.521-30.087-30.087-69.711-26.379-93.316-2.778-24.954 24.956-24.954 65.558-.002 90.511L112 258.511V456c0 30.879 25.122 56 56 56h16c15.654 0 29.828-6.456 40-16.846C234.172 505.544 248.346 512 264 512h16c30.878 0 56-25.121 56-56V258.511l77.286-77.256c24.952-24.954 24.952-65.556.001-90.509zM224 32c35.346 0 64 28.654 64 64s-28.654 64-64 64-64-28.654-64-64 28.654-64 64-64zm166.628 126.628L304 245.256V456c0 13.255-10.745 24-24 24h-16c-13.255 0-24-10.745-24-24V344h-32v112c0 13.255-10.745 24-24 24h-16c-13.255 0-24-10.745-24-24V245.256l-86.628-86.628c-12.496-12.497-12.496-32.759 0-45.256 12.498-12.496 32.757-12.497 45.256 0L181.256 192h85.488l78.628-78.628c12.498-12.496 32.757-12.497 45.256 0 12.496 12.497 12.496 32.759 0 45.256z"></path></svg><!-- <i class="fal fa-child"></i> -->
-</div>
-<h2 class="text-info">
-100% Community Driven
-</h2>
-<p class="text-white-50">
-Community driven &amp; fair launch. Dev burned all team tokens and
-participated in the fair launch with everyone else.
-</p>
-</div>
-</div>
-</div>
-<div class="col-sm-12 col-lg-4">
-<div class="card border-0 mb-3 mb-lg-0 aos-init" data-aos="fade-down" data-aos-delay="600">
-<div class="card-body text-center">
-<div class="rounded-circle text-warning circle-icon">
-<svg class="svg-inline--fa fa-water-lower fa-w-18" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="water-lower" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M276.7 235.7c3.1 2.9 7.2 4.4 11.3 4.4s8.2-1.5 11.3-4.4l90.3-84.7c3.1-2.9 3.1-7.7 0-10.6l-11.3-10.6c-3.1-2.9-8.2-2.9-11.3 0l-63 59.1V7.5c0-4.1-3.6-7.5-8-7.5h-16c-4.4 0-8 3.4-8 7.5v181.3l-63-59.1c-3.1-2.9-8.2-2.9-11.3 0l-11.3 10.6c-3.1 2.9-3.1 7.7 0 10.6l90.3 84.8zM568.3 450c-29.5-1.4-57.7-10.9-78.2-26.5-5.9-4.5-14.3-4.5-20.2.1-43.7 33.6-127 34-171.8-.1-5.9-4.5-14.3-4.5-20.2.1-43.7 33.6-127 34-171.8-.1-5.9-4.5-14.3-4.4-20.2.1-20.2 15.6-48.3 25-78.1 26.4-4.3.2-7.7 3.4-7.7 7.4v15c0 4.2 3.8 7.8 8.3 7.6 32.3-1.4 63.3-10.6 87.8-26.2 53.8 33.9 139.2 33.5 192 0 53.7 33.9 139.2 33.5 192 0 24.6 15.5 55.6 24.8 87.6 26.2 4.5.2 8.3-3.3 8.3-7.6v-15c-.1-4-3.5-7.2-7.8-7.4zm0-119.9c-29.5-1.4-57.7-10.9-78.2-26.5-5.9-4.5-14.3-4.5-20.2.1-43.7 33.6-127 34-171.8-.1-5.9-4.5-14.3-4.5-20.2.1-43.7 33.6-127 34-171.8-.1-5.9-4.5-14.3-4.4-20.2.1-20.2 15.6-48.3 25-78.1 26.4-4.3.2-7.7 3.4-7.7 7.4v15c0 4.2 3.8 7.8 8.3 7.6 32.3-1.4 63.3-10.6 87.8-26.2 53.8 33.9 139.2 33.5 192 0 53.7 33.9 139.2 33.5 192 0 24.6 15.5 55.6 24.8 87.6 26.2 4.5.2 8.3-3.3 8.3-7.6v-15c-.1-4-3.5-7.2-7.8-7.4z"></path></svg><!-- <i class="fal fa-water-lower"></i> -->
-</div>
-<h2 class="text-info">
-Automatic LP
-</h2>
-<p class="text-white-50">
-Every trade contributes toward automatically generating liquidity
-locked inside PancakeSwap LP.
-</p>
-</div>
-</div>
-</div>
-<div class="col-sm-12 col-lg-4">
-<div class="card border-0 mb-3 mb-lg-0 aos-init" data-aos="fade-down" data-aos-delay="900">
-<div class="card-body text-center">
- <div class="rounded-circle text-warning circle-icon">
-<svg class="svg-inline--fa fa-hand-holding-usd fa-w-18" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="hand-holding-usd" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M256.7 135.7l56.4 16.1c8.8 2.5 14.9 10.6 14.9 19.7 0 11.3-9.2 20.5-20.5 20.5h-36.9c-8.2 0-16.1-2.6-22.6-7.3-3-2.2-7.2-1.5-9.8 1.2l-11.4 11.4c-3.5 3.5-2.9 9.2 1 12.2 12.3 9.4 27.2 14.5 42.9 14.5h1.4v24c0 4.4 3.6 8 8 8h16c4.4 0 8-3.6 8-8v-24h1.4c22.8 0 44.3-13.6 51.7-35.2 10.1-29.6-7.3-59.8-35.1-67.8L263 104.1c-8.8-2.5-14.9-10.6-14.9-19.7 0-11.3 9.2-20.5 20.5-20.5h36.9c8.2 0 16.1 2.6 22.6 7.3 3 2.2 7.2 1.5 9.8-1.2l11.4-11.4c3.5-3.5 2.9-9.2-1-12.2C336 37.1 321.1 32 305.4 32H304V8c0-4.4-3.6-8-8-8h-16c-4.4 0-8 3.6-8 8v24h-3.5c-30.6 0-55.1 26.3-52.2 57.5 2 22.1 19 40.1 40.4 46.2zm301.6 197.9c-19.7-17.7-49.4-17.6-69.9-1.2l-61.6 49.3c-1.9 1.5-4.2 2.3-6.7 2.3h-41.6c4.6-9.6 6.5-20.7 4.8-32.3-4-27.9-29.6-47.7-57.8-47.7H181.3c-20.8 0-41 6.7-57.6 19.2L85.3 352H8c-4.4 0-8 3.6-8 8v16c0 4.4 3.6 8 8 8h88l46.9-35.2c11.1-8.3 24.6-12.8 38.4-12.8H328c13.3 0 24 10.7 24 24s-10.7 24-24 24h-88c-8.8 0-16 7.2-16 16s7.2 16 16 16h180.2c9.7 0 19.1-3.3 26.7-9.3l61.6-49.2c7.7-6.1 20-7.6 28.4 0 10.1 9.1 9.3 24.5-.9 32.6l-100.8 80.7c-7.6 6.1-17 9.3-26.7 9.3H8c-4.4 0-8 3.6-8 8v16c0 4.4 3.6 8 8 8h400.5c17 0 33.4-5.8 46.6-16.4L556 415c12.2-9.8 19.5-24.4 20-40s-6-30.8-17.7-41.4z"></path></svg><!-- <i class="fal fa-hand-holding-usd"></i> -->
-</div>
-<h2 class="text-info">
-RFI Static Rewards
-</h2>
-<p class="text-white-50">
-Holders earn passive rewards through static reflection as they watch
-their balance of SafeMoon grow indefinitely.
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div><div class="container spaceman text-shadow">
-<div class="row">
-<div class="col-sm-12 col-lg-6 offset-lg-6">
-<h1 class="orbitron text-white" style="letter-spacing:2px">Road Map</h1>
-<div class="timeline timeline-one-side" data-timeline-content="axis" data-timeline-axis-style="dashed">
-<div class="timeline-block">
-<span class="timeline-step badge-dark text-white p-4">
-<svg class="svg-inline--fa fa-shipping-fast fa-w-20 fa-lg" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="shipping-fast" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M624 352h-16V243.9c0-12.7-5.1-24.9-14.1-33.9L494 110.1c-9-9-21.2-14.1-33.9-14.1H416V48c0-26.5-21.5-48-48-48H112C85.5 0 64 21.5 64 48v48H8c-4.4 0-8 3.6-8 8v16c0 4.4 3.6 8 8 8h272c4.4 0 8 3.6 8 8v16c0 4.4-3.6 8-8 8H40c-4.4 0-8 3.6-8 8v16c0 4.4 3.6 8 8 8h208c4.4 0 8 3.6 8 8v16c0 4.4-3.6 8-8 8H8c-4.4 0-8 3.6-8 8v16c0 4.4 3.6 8 8 8h208c4.4 0 8 3.6 8 8v16c0 4.4-3.6 8-8 8H64v128c0 53 43 96 96 96s96-43 96-96h128c0 53 43 96 96 96s96-43 96-96h48c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16zM160 464c-26.5 0-48-21.5-48-48s21.5-48 48-48 48 21.5 48 48-21.5 48-48 48zm320 0c-26.5 0-48-21.5-48-48s21.5-48 48-48 48 21.5 48 48-21.5 48-48 48zm80-208H416V144h44.1l99.9 99.9V256z"></path></svg><!-- <i class="fas fa-shipping-fast fa-lg"></i> -->
-</span>
-<div class="timeline-content">
-<div class="timeline-tag">
-Q1 2021
-</div>
-<h5 class="text-white mt-3 mb-0">Protocol Initialized</h5>
-<p class="text-light text-sm mt-1 mb-0">
-We have successfully onboarded and confirmed a DogeCoin trading pair with Bibipom.
-We have also successfully begun integration process with WhiteBit [Imminent] and began legal paperwork with Bitmart.
-Our team size has doubled and our marketing campaign has begun.
-</p>
-</div>
-</div>
-<div class="timeline-block">
-<span class="timeline-step badge-dark text-white p-4">
-<svg class="svg-inline--fa fa-exchange-alt fa-w-16 fa-lg" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="exchange-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M0 168v-16c0-13.255 10.745-24 24-24h360V80c0-21.367 25.899-32.042 40.971-16.971l80 80c9.372 9.373 9.372 24.569 0 33.941l-80 80C409.956 271.982 384 261.456 384 240v-48H24c-13.255 0-24-10.745-24-24zm488 152H128v-48c0-21.314-25.862-32.08-40.971-16.971l-80 80c-9.372 9.373-9.372 24.569 0 33.941l80 80C102.057 463.997 128 453.437 128 432v-48h360c13.255 0 24-10.745 24-24v-16c0-13.255-10.745-24-24-24z"></path></svg><!-- <i class="fas fa-exchange-alt fa-lg"></i> -->
-</span>
-<div class="timeline-content">
-<div class="timeline-tag">Q2 2021</div>
-<h5 class="text-white mt-3 mb-0">The Initial Push</h5>
-<p class="text-light text-sm mt-1 mb-0">
-The Whitebit tokenomics integration will be completed along with the completion of the SafeMoon App, Wallet, and Game(s).
-The Bitmart integration with tokenomics will also be completed in this quarter.
-We will begin architecting the NFT Exchange as well as video-game integrations.
-We will be integrating SafeMoon with African Markets in addition to setting up a Charity drive and charity vote.
-We will be exploring other exchanges (i.e. Binance) and begin architecting the SafeMoon Exchange.
-We will be expanding the team by 35% and establish a UK/Ireland office.
-We will be architecting a crypto educational app as well as onboarding new partners.
-</p>
-</div>
-</div>
-<div class="timeline-block">
-<span class="timeline-step badge-dark text-white p-4">
-<svg class="svg-inline--fa fa-handshake fa-w-20 fa-lg" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="handshake" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M434.7 64h-85.9c-8 0-15.7 3-21.6 8.4l-98.3 90c-.1.1-.2.3-.3.4-16.6 15.6-16.3 40.5-2.1 56 12.7 13.9 39.4 17.6 56.1 2.7.1-.1.3-.1.4-.2l79.9-73.2c6.5-5.9 16.7-5.5 22.6 1 6 6.5 5.5 16.6-1 22.6l-26.1 23.9L504 313.8c2.9 2.4 5.5 5 7.9 7.7V128l-54.6-54.6c-5.9-6-14.1-9.4-22.6-9.4zM544 128.2v223.9c0 17.7 14.3 32 32 32h64V128.2h-96zm48 223.9c-8.8 0-16-7.2-16-16s7.2-16 16-16 16 7.2 16 16-7.2 16-16 16zM0 384h64c17.7 0 32-14.3 32-32V128.2H0V384zm48-63.9c8.8 0 16 7.2 16 16s-7.2 16-16 16-16-7.2-16-16c0-8.9 7.2-16 16-16zm435.9 18.6L334.6 217.5l-30 27.5c-29.7 27.1-75.2 24.5-101.7-4.4-26.9-29.4-24.8-74.9 4.4-101.7L289.1 64h-83.8c-8.5 0-16.6 3.4-22.6 9.4L128 128v223.9h18.3l90.5 81.9c27.4 22.3 67.7 18.1 90-9.3l.2-.2 17.9 15.5c15.9 13 39.4 10.5 52.3-5.4l31.4-38.6 5.4 4.4c13.7 11.1 33.9 9.1 45-4.7l9.5-11.7c11.2-13.8 9.1-33.9-4.6-45.1z"></path></svg><!-- <i class="fas fa-handshake fa-lg"></i> -->
-</span>
-<div class="timeline-content">
-<div class="timeline-tag">Q3 2021</div>
-<h5 class="text-white mt-3 mb-0">Holding the Line</h5>
-<p class="text-light text-sm mt-1 mb-0">
-We will finish our crypto educational app and begin our own charity project.
-We will begin a community listing donation raise for several exchanges (i.e. Coinbase, Binance, Kraken).
-We will finish our NFT exchange and release our first video game with SafeMoon integrated.
-We will be expanding the team by 25% and do a community meetup (pending covid restrictions).
-We will also be integrating with other large exchanges (I.e. Binance, Mandala).
-</p>
-</div>
-</div>
-<div class="timeline-block">
-<span class="timeline-step badge-dark text-white p-4">
-<svg class="svg-inline--fa fa-rocket-launch fa-w-16 fa-lg" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="rocket-launch" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M505.16405,19.29688c-1.176-5.4629-6.98736-11.26563-12.45106-12.4336C460.61647,0,435.46433,0,410.41962,0,307.2013,0,245.30155,55.20312,199.09162,128H94.88878c-16.29733,0-35.599,11.92383-42.88913,26.49805L2.57831,253.29688A28.39645,28.39645,0,0,0,.06231,264a24.008,24.008,0,0,0,24.00353,24H128.01866a96.00682,96.00682,0,0,1,96.01414,96V488a24.008,24.008,0,0,0,24.00353,24,28.54751,28.54751,0,0,0,10.7047-2.51562l98.747-49.40626c14.56074-7.28515,26.4746-26.56445,26.4746-42.84374V312.79688c72.58882-46.3125,128.01886-108.40626,128.01886-211.09376C512.07522,76.55273,512.07522,51.40234,505.16405,19.29688ZM384.05637,168a40,40,0,1,1,40.00589-40A40.02,40.02,0,0,1,384.05637,168ZM35.68474,352.06641C9.82742,377.91992-2.94985,442.59375.57606,511.41016c69.11565,3.55859,133.61147-9.35157,159.36527-35.10547,40.28913-40.2793,42.8774-93.98633,6.31147-130.54883C129.68687,309.19727,75.97,311.78516,35.68474,352.06641Zm81.63312,84.03125c-8.58525,8.584-30.08256,12.88672-53.11915,11.69922-1.174-22.93555,3.08444-44.49219,11.70289-53.10938,13.42776-13.42578,31.33079-14.28906,43.51813-2.10352C131.60707,404.77148,130.74562,422.67188,117.31786,436.09766Z"></path></svg><!-- <i class="fas fa-rocket-launch fa-lg"></i> -->
-</span>
-<div class="timeline-content">
-<div class="timeline-tag">Q4 2021</div>
-<h5 class="text-white mt-3 mb-0">To the Moon!</h5>
-<p class="text-light text-sm mt-1 mb-0">
-We will finish the SafeMoon Exchange and our charity project.
-We will finish integrations with our first African market and begin the next integrations with additional African markets.
- We will create an African based SafeMoon Office and begin hiring in those markets to create jobs.
-We will be taking donations for our next charity project and begin a vote on the next project as well.
-We will be establishing a SafeMoon Scholarship in this quarter as well.
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="container" style="margin-top:100px;">
-<div class="pr-4">
-<a href="https://shop.safemoon.net/" target="_blank">
-<img class="img-fluid" src="Home%20SafeMoon_files/merch-transparent.png" height="400">
-</a>
-</div>
-</div>
-<div class="container" style="margin-top:100px;">
-<div class="d-flex align-items-center flex-column flex-lg-row">
-<div class="pr-4">
-<a href="https://coinmarketcap.com/currencies/safemoon/" target="_blank">
-<img src="Home%20SafeMoon_files/coinmarket.png" height="50">
-</a>
-</div>
-<div class="pr-4">
-<a href="https://bscscan.com/token/0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3" target="_blank">
-<img src="Home%20SafeMoon_files/BscScan-logo.png" height="50">
-</a>
-</div>
-</div>
-</div>
-<div class="container" style="margin-top:100px;">
-<div class="card border-0 rounded-0">
-<div class="card-body py-5">
-<div class="container">
-<div class="d-flex align-items-center">
-<div class="pr-4">
-<img src="Home%20SafeMoon_files/discord-logo.png" height="75">
-</div>
-<div class="flex-fill">
-<h1 class="font-weight-bold text-info mb-0">
-We've launched a Discord Bot!
-</h1>
-<p class="text-white-50 mb-0">
-You can now add our SafeMoon Bot to your own Discord server!
-</p>
-</div>
-<div class="text-nowrap">
-<a href="https://discord.com/oauth2/authorize?client_id=827403996272132096&amp;scope=bot&amp;permissions=511041" class="btn btn-success btn-lg btn-block px-3 my-3">
-Invite
-<svg class="svg-inline--fa fa-external-link-alt fa-w-16 fa-fw ml-3" aria-hidden="true" focusable="false" data-prefix="far" data-icon="external-link-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M432,288H416a16,16,0,0,0-16,16V458a6,6,0,0,1-6,6H54a6,6,0,0,1-6-6V118a6,6,0,0,1,6-6H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V304A16,16,0,0,0,432,288ZM500,0H364a12,12,0,0,0-8.48,20.48l48.19,48.21L131.51,340.89a12,12,0,0,0,0,17l22.63,22.63a12,12,0,0,0,17,0l272.2-272.21,48.21,48.2A12,12,0,0,0,512,148V12A12,12,0,0,0,500,0Z"></path></svg><!-- <i class="far fa-external-link-alt fa-fw ml-3"></i> -->
-</a>
-<a href="https://github.com/Safemoon-Protocol/Discord-Bot" class="btn btn-success btn-lg btn-block px-3">
-Github
-<svg class="svg-inline--fa fa-external-link-alt fa-w-16 fa-fw ml-3" aria-hidden="true" focusable="false" data-prefix="far" data-icon="external-link-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M432,288H416a16,16,0,0,0-16,16V458a6,6,0,0,1-6,6H54a6,6,0,0,1-6-6V118a6,6,0,0,1,6-6H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V304A16,16,0,0,0,432,288ZM500,0H364a12,12,0,0,0-8.48,20.48l48.19,48.21L131.51,340.89a12,12,0,0,0,0,17l22.63,22.63a12,12,0,0,0,17,0l272.2-272.21,48.21,48.2A12,12,0,0,0,512,148V12A12,12,0,0,0,500,0Z"></path></svg><!-- <i class="far fa-external-link-alt fa-fw ml-3"></i> -->
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<footer class="footer py-5 mt-5">
-<div class="container">
-<div class="row row-grid align-items-center">
-<div class="col-lg-6">
-<div class="d-flex align-items-center">
-<div class="flex-fill">
-<h1 class="text-info mb-0">SafeMoon Protocol</h1>
-<p class="mb-3 mb-md-0 text-justify text-white-50">
-The SafeMoon Protocol is a community driven, fair launched DeFi Token.
-Three simple functions occur during each trade: Reflection, LP Acquisition, &amp; Burn.
-</p>
-</div>
-</div>
-</div>
-<div class="col-lg-6 btn-wrapper text-center text-md-right mt-sm-4 mt-lg-0">
-<a href="https://facebook.com/safemoonprotocol" class="px-3 text-info" target="_blank">
-<svg class="svg-inline--fa fa-facebook fa-w-16 fa-2x" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg><!-- <i class="fab fa-facebook fa-2x"></i> -->
-</a>
-<a href="https://twitter.com/safemoon" class="px-3 text-info" target="_blank">
-<svg class="svg-inline--fa fa-twitter fa-w-16 fa-2x" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg><!-- <i class="fab fa-twitter fa-2x"></i> -->
-</a>
-<a href="https://www.instagram.com/safemoonhq/" class="px-3 text-info" target="_blank">
-<svg class="svg-inline--fa fa-instagram fa-w-14 fa-2x" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg><!-- <i class="fab fa-instagram fa-2x"></i> -->
-</a>
-<a href="https://www.reddit.com/r/SafeMoon/" class="px-3 text-info" target="_blank">
-<svg class="svg-inline--fa fa-reddit fa-w-16 fa-2x" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="reddit" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M201.5 305.5c-13.8 0-24.9-11.1-24.9-24.6 0-13.8 11.1-24.9 24.9-24.9 13.6 0 24.6 11.1 24.6 24.9 0 13.6-11.1 24.6-24.6 24.6zM504 256c0 137-111 248-248 248S8 393 8 256 119 8 256 8s248 111 248 248zm-132.3-41.2c-9.4 0-17.7 3.9-23.8 10-22.4-15.5-52.6-25.5-86.1-26.6l17.4-78.3 55.4 12.5c0 13.6 11.1 24.6 24.6 24.6 13.8 0 24.9-11.3 24.9-24.9s-11.1-24.9-24.9-24.9c-9.7 0-18 5.8-22.1 13.8l-61.2-13.6c-3-.8-6.1 1.4-6.9 4.4l-19.1 86.4c-33.2 1.4-63.1 11.3-85.5 26.8-6.1-6.4-14.7-10.2-24.1-10.2-34.9 0-46.3 46.9-14.4 62.8-1.1 5-1.7 10.2-1.7 15.5 0 52.6 59.2 95.2 132 95.2 73.1 0 132.3-42.6 132.3-95.2 0-5.3-.6-10.8-1.9-15.8 31.3-16 19.8-62.5-14.9-62.5zM302.8 331c-18.2 18.2-76.1 17.9-93.6 0-2.2-2.2-6.1-2.2-8.3 0-2.5 2.5-2.5 6.4 0 8.6 22.8 22.8 87.3 22.8 110.2 0 2.5-2.2 2.5-6.1 0-8.6-2.2-2.2-6.1-2.2-8.3 0zm7.7-75c-13.6 0-24.6 11.1-24.6 24.9 0 13.6 11.1 24.6 24.6 24.6 13.8 0 24.9-11.1 24.9-24.6 0-13.8-11-24.9-24.9-24.9z"></path></svg><!-- <i class="fab fa-reddit fa-2x"></i> -->
-</a>
-<a href="https://t.me/safemoonv2" class="px-3 text-info" target="_blank">
-<svg class="svg-inline--fa fa-telegram fa-w-16 fa-2x" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="telegram" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" data-fa-i2svg=""><path fill="currentColor" d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm121.8 169.9l-40.7 191.8c-3 13.6-11.1 16.9-22.4 10.5l-62-45.7-29.9 28.8c-3.3 3.3-6.1 6.1-12.5 6.1l4.4-63.1 114.9-103.8c5-4.4-1.1-6.9-7.7-2.5l-142 89.4-61.2-19.1c-13.3-4.2-13.6-13.3 2.8-19.7l239.1-92.2c11.1-4 20.8 2.7 17.2 19.5z"></path></svg><!-- <i class="fab fa-telegram fa-2x"></i> -->
-</a>
-<a href="https://discord.gg/safemoon" class="px-3 text-info" target="_blank">
-<svg class="svg-inline--fa fa-discord fa-w-14 fa-2x" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="discord" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M297.216 243.2c0 15.616-11.52 28.416-26.112 28.416-14.336 0-26.112-12.8-26.112-28.416s11.52-28.416 26.112-28.416c14.592 0 26.112 12.8 26.112 28.416zm-119.552-28.416c-14.592 0-26.112 12.8-26.112 28.416s11.776 28.416 26.112 28.416c14.592 0 26.112-12.8 26.112-28.416.256-15.616-11.52-28.416-26.112-28.416zM448 52.736V512c-64.494-56.994-43.868-38.128-118.784-107.776l13.568 47.36H52.48C23.552 451.584 0 428.032 0 398.848V52.736C0 23.552 23.552 0 52.48 0h343.04C424.448 0 448 23.552 448 52.736zm-72.96 242.688c0-82.432-36.864-149.248-36.864-149.248-36.864-27.648-71.936-26.88-71.936-26.88l-3.584 4.096c43.52 13.312 63.744 32.512 63.744 32.512-60.811-33.329-132.244-33.335-191.232-7.424-9.472 4.352-15.104 7.424-15.104 7.424s21.248-20.224 67.328-33.536l-2.56-3.072s-35.072-.768-71.936 26.88c0 0-36.864 66.816-36.864 149.248 0 0 21.504 37.12 78.08 38.912 0 0 9.472-11.52 17.152-21.248-32.512-9.728-44.8-30.208-44.8-30.208 3.766 2.636 9.976 6.053 10.496 6.4 43.21 24.198 104.588 32.126 159.744 8.96 8.96-3.328 18.944-8.192 29.44-15.104 0 0-12.8 20.992-46.336 30.464 7.68 9.728 16.896 20.736 16.896 20.736 56.576-1.792 78.336-38.912 78.336-38.912z"></path></svg><!-- <i class="fab fa-discord fa-2x"></i> -->
-</a>
-</div>
-</div>
-<hr>
-<div class="row flex-column-reverse flex-lg-row align-items-center justify-content-md-between">
-<div class="col-lg-6">
-<div class="copyright text-center text-lg-left">
-© 2021
-<a href="https://safemoon.net/" class="text-info">SafeMoon</a> | All Rights Reserved.
-</div>
-</div>
-<div class="col-lg-6">
-<ul class="nav nav-footer justify-content-center justify-content-lg-end">
-<li class="nav-item">
-<a href="https://safemoon.net/branding" class="nav-link">
-Branding
-</a>
-</li>
-<li class="nav-item">
-<a href="https://safemoon.net/whitepaper" class="nav-link">
-Whitepaper
-</a>
-</li>
-<li class="nav-item">
-<a href="https://safemoon.net/guide" class="nav-link">
-How to Buy
-</a>
-</li>
-<li class="nav-item">
-<a href="https://safemoon.net/terms" class="nav-link">
-Terms of Service
-</a>
-</li>
-<li class="nav-item">
-<a href="https://safemoon.net/privacy" class="nav-link">
-Privacy Policy
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</footer>
-<div class="cookie-container d-none bg-gradient-default" id="cookiebox">
-<div class="container">
-<div class="d-flex align-items-center mx-5 py-3">
-<div class="flex-fill pr-3 d-none d-lg-block">
-<svg class="svg-inline--fa fa-cookie fa-w-16 fa-3x my-3 text-white" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="cookie" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M352 328c-13.25 0-24 10.74-24 24 0 13.25 10.75 24 24 24s24-10.75 24-24c0-13.26-10.75-24-24-24zm-8-200c0-13.26-10.75-24-24-24s-24 10.74-24 24c0 13.25 10.75 24 24 24s24-10.75 24-24zm-160 64c0-13.26-10.75-24-24-24s-24 10.74-24 24c0 13.25 10.75 24 24 24s24-10.75 24-24zm8 136c-13.25 0-24 10.74-24 24 0 13.25 10.75 24 24 24s24-10.75 24-24c0-13.26-10.75-24-24-24zm96-96c-13.25 0-24 10.74-24 24 0 13.25 10.75 24 24 24s24-10.75 24-24c0-13.26-10.75-24-24-24zm222.37 22.79l-12.08-76.26a132.493 132.493 0 0 0-37.16-72.95l-54.76-54.75c-19.73-19.72-45.18-32.7-72.71-37.05l-76.7-12.15C250.11.54 243.22 0 236.34 0c-20.72 0-41.25 4.88-59.89 14.38l-69.12 35.21a132.25 132.25 0 0 0-57.79 57.8l-35.1 68.87A132.602 132.602 0 0 0 1.62 257.2l12.08 76.27a132.493 132.493 0 0 0 37.16 72.95l54.76 54.75a132.087 132.087 0 0 0 72.71 37.05l76.7 12.14c6.86 1.09 13.75 1.62 20.63 1.62 20.72 0 41.25-4.88 59.88-14.38l69.12-35.21a132.302 132.302 0 0 0 57.79-57.8l35.1-68.87a132.56 132.56 0 0 0 12.82-80.93zm-41.33 66.41l-35.1 68.88c-9.68 19-24.83 34.15-43.8 43.82l-69.12 35.21c-13.98 7.13-29.67 10.89-45.36 10.89-5.21 0-10.47-.41-15.63-1.23l-76.69-12.14c-20.99-3.33-40.04-13.04-55.09-28.08L73.5 383.79c-15.09-15.09-24.84-34.22-28.18-55.33L33.24 252.2c-3.35-21.12.02-42.36 9.72-61.4l35.1-68.88c9.68-19 24.83-34.15 43.8-43.82l69.12-35.21C204.97 35.77 220.65 32 236.34 32c5.21 0 10.47.41 15.62 1.23l76.7 12.15c20.99 3.32 40.04 13.03 55.08 28.08l54.76 54.75c15.09 15.09 24.84 34.22 28.18 55.33l12.08 76.26c3.35 21.12-.02 42.36-9.72 61.4z"></path></svg><!-- <i class="fal fa-cookie fa-3x my-3 text-white"></i> -->
-</div>
-<div class="flex-fill w-100">
-<h2 class="text-white mb-0">Cookie Notice</h2>
-<p class="mb-0 text-white font-weight-bold small">
-This website makes use of cookies to improve your experience within our website. To find
-out more, <br>read our
-<a href="https://safemoon.net/privacy" class="text-primary font-weight-bold">
-privacy policy
-</a>
-and
-<a href="https://safemoon.net/privacy" class="text-primary  font-weight-bold">
-cookie policy
-</a>
-</p>
-</div>
-<div class="text-right">
-<a href="" class="btn btn-outline-white rounded-pill btn-block text-nowrap px-4" id="accept">
-<svg class="svg-inline--fa fa-check fa-w-16 fa-fw" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg><!-- <i class="fas fa-check fa-fw"></i> -->
-OKAY
-</a>
-</div>
-</div>
-</div>
-</div>
-<script>
-        let accepted = Cookies.get("accept_cookie");
-
-        if (!accepted) {
-            $('#cookiebox').removeClass("d-none")
-        }
-
-        $('#accept').click(function(event) {
-            event.preventDefault();
-            Cookies.set("accept_cookie", true, { expires: 30, path: '/'});
-            $('#cookiebox').slideUp()
-        });
-    </script>
-
-<script type="text/javascript" src="Home%20SafeMoon_files/argon.js"></script><div class="backdrop d-xl-none" data-action="sidenav-unpin" data-target="undefined"></div>
-<script src="Home%20SafeMoon_files/particles_002.js"></script>
-<script type="text/javascript" src="Home%20SafeMoon_files/custom.js"></script>
-<script type="text/javascript" src="Home%20SafeMoon_files/particles.js"></script>
-<script async="" src="Home%20SafeMoon_files/js"></script>
-<script>
-    AOS.init();
-    
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-8JW46FHM0X');
-</script>
-
-</body></html>
+<?php
+echo '<!DOCTYPE html>';
+echo '<html class="fontawesome-i2svg-active fontawesome-i2svg-complete" lang="en-US"><head>';
+echo '<meta http-equiv="content-type" content="text/html; charset=UTF-8">';
+echo '<title>Home | SafeMoon</title>';
+echo '<meta name="viewport" content="width=device-width, initial-scale=0.87, shrink-to-fit=no">';
+echo '<meta name="description" content="The SafeMoon Protocol is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, and Burn.">';
+echo '<meta name="keywords" content="safemoon,safemars,safegalaxy,bitcoin,dogecoin,doge,defi,coinbase,coinmarketcap,coinmarket,bscscan,whitebit,coingecko,cryptocurrency,crypto,pancakeswap,dex,etherium,eth,btc">';
+echo '<style type="text/css">svg:not(:root).svg-inline--fa{overflow:visible}.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-lg{vertical-align:-.225em}.svg-inline--fa.fa-w-1{width:.0625em}.svg-inline--fa.fa-w-2{width:.125em}.svg-inline--fa.fa-w-3{width:.1875em}.svg-inline--fa.fa-w-4{width:.25em}.svg-inline--fa.fa-w-5{width:.3125em}.svg-inline--fa.fa-w-6{width:.375em}.svg-inline--fa.fa-w-7{width:.4375em}.svg-inline--fa.fa-w-8{width:.5em}.svg-inline--fa.fa-w-9{width:.5625em}.svg-inline--fa.fa-w-10{width:.625em}.svg-inline--fa.fa-w-11{width:.6875em}.svg-inline--fa.fa-w-12{width:.75em}.svg-inline--fa.fa-w-13{width:.8125em}.svg-inline--fa.fa-w-14{width:.875em}.svg-inline--fa.fa-w-15{width:.9375em}.svg-inline--fa.fa-w-16{width:1em}.svg-inline--fa.fa-w-17{width:1.0625em}.svg-inline--fa.fa-w-18{width:1.125em}.svg-inline--fa.fa-w-19{width:1.1875em}.svg-inline--fa.fa-w-20{width:1.25em}.svg-inline--fa.fa-pull-left{margin-right:.3em;width:auto}.svg-inline--fa.fa-pull-right{margin-left:.3em;width:auto}.svg-inline--fa.fa-border{height:1.5em}.svg-inline--fa.fa-li{width:2em}.svg-inline--fa.fa-fw{width:1.25em}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:#ff253a;border-radius:1em;-webkit-box-sizing:border-box;box-sizing:border-box;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.fa-lg{font-size:1.3333333333em;line-height:.75em;vertical-align:-.0667em}.fa-xs{font-size:.75em}.fa-sm{font-size:.875em}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.fa-ul>li{position:relative}.fa-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.fa-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left,.fab.fa-pull-left,.fal.fa-pull-left,.far.fa-pull-left,.fas.fa-pull-left{margin-right:.3em}.fa.fa-pull-right,.fab.fa-pull-right,.fal.fa-pull-right,.far.fa-pull-right,.fas.fa-pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-both,.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-flip-both,:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{-webkit-filter:none;filter:none}.fa-stack{display:inline-block;height:2em;position:relative;width:2.5em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.svg-inline--fa.fa-stack-1x{height:1em;width:1.25em}.svg-inline--fa.fa-stack-2x{height:2em;width:2.5em}.fa-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}.svg-inline--fa .fa-primary{fill:var(--fa-primary-color,currentColor);opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa .fa-secondary{fill:var(--fa-secondary-color,currentColor);opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-primary{opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-secondary{opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa mask .fa-primary,.svg-inline--fa mask .fa-secondary{fill:#000}.fad.fa-inverse{color:#fff}</style><link rel="shortcut icon" type="image/png" href="https://safemoon.net/public/img/favicon.png">';
+echo '<link rel="canonical" href="https://safemoon.net/">';
+echo '<meta property="og:image" content="https://safemoon.net/public/img/social_thumb.png">';
+echo '<meta property="og:image:type" content="image/png">';
+echo '<meta property="og:image:width" content="1280">';
+echo '<meta property="og:image:height" content="640">';
+echo '<meta name="twitter:card" content="summary_large_image">';
+echo '<meta name="twitter:description" content="The official home of SafeMoon. The SafeMoon Protocol is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, and Burn.">';
+echo '<meta name="twitter:title" content="SafeMoon Protocol">';
+echo '<meta name="twitter:site" content="@safemoon">';
+echo '<meta name="twitter:image" content="https://safemoon.net/public/img/social_thumb.png">';
+echo '<link rel="shortcut icon" type="image/png" href="https://safemoon.net/public/img/favicon.png">';
+echo '<link rel="stylesheet" type="text/css" href="Home%20SafeMoon_files/argon.css">';
+echo '<link rel="stylesheet" type="text/css" href="Home%20SafeMoon_files/stylesheet.css">';
+echo '<script type="text/javascript" src="Home%20SafeMoon_files/jquery-3.js"></script>';
+echo '<script type="text/javascript" src="Home%20SafeMoon_files/bootstrap.js"></script>';
+echo '<script type="text/javascript" src="Home%20SafeMoon_files/js.js"></script>';
+echo '<script type="text/javascript" src="Home%20SafeMoon_files/fontawesome.js"></script>';
+echo '<script src="Home%20SafeMoon_files/web3.js"></script>';
+echo '<link href="Home%20SafeMoon_files/aos.css" rel="stylesheet">';
+echo '<script src="Home%20SafeMoon_files/aos.js"></script>';
+echo '</head>';
+echo '<body class="g-sidenav-show g-sidenav-pinned" data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0" data-new-gr-c-s-check-loaded="8.872.0" data-gr-ext-installed="">';
+echo '<div class="particle-container bg-dark">';
+echo '<div id="particles-js"><canvas class="particles-js-canvas-el" style="width: 100%; height: 100%;" width="1903" height="700"></canvas></div>';
+echo '<div class="top-bar">';
+echo '<div class="container">';
+echo '<div class="d-flex justify-content-between">';
+echo '<div class="d-none d-lg-block w-100">';
+echo '<ul class="topnav">';
+echo '<li class="text-white-50">';
+echo 'The official home of Safemoon';
+echo '</li>';
+echo '</ul>';
+echo '</div>';
+echo '<div style="font-size:20px;line-height:45px;" class="text-center text-lg-right w-100">';
+echo '<a href="https://facebook.com/safemoonprotocol" class="mr-2 text-info" target="_blank" data-toggle="tooltip" title="" data-original-title="facebook">';
+echo '<svg class="svg-inline--fa fa-facebook-f fa-w-10 fa-fw" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-f" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg=""><path fill="currentColor" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg><!-- <i class="fab fa-facebook-f fa-fw"></i> -->';
+echo '</a>';
+echo '<a href="https://twitter.com/safemoon" class="mx-2 text-info" target="_blank" data-toggle="tooltip" title="" data-original-title="Twitter">';
+echo '<svg class="svg-inline--fa fa-twitter fa-w-16 fa-fw" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg><!-- <i class="fab fa-twitter fa-fw"></i> -->';
+echo '</a>';
+echo '<a href="https://www.instagram.com/safemoonhq/" class="mx-2 text-info" target="_blank" data-toggle="tooltip" title="" data-original-title="Instagram">';
+echo '<svg class="svg-inline--fa fa-instagram fa-w-14 fa-fw" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg><!-- <i class="fab fa-instagram fa-fw"></i> -->';
+echo '</a>';
+echo '<a href="https://www.reddit.com/r/SafeMoon/" class="mx-2 text-info" target="_blank" data-toggle="tooltip" title="" data-original-title="Reddit">';
+echo '<svg class="svg-inline--fa fa-reddit fa-w-16 fa-fw" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="reddit" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M201.5 305.5c-13.8 0-24.9-11.1-24.9-24.6 0-13.8 11.1-24.9 24.9-24.9 13.6 0 24.6 11.1 24.6 24.9 0 13.6-11.1 24.6-24.6 24.6zM504 256c0 137-111 248-248 248S8 393 8 256 119 8 256 8s248 111 248 248zm-132.3-41.2c-9.4 0-17.7 3.9-23.8 10-22.4-15.5-52.6-25.5-86.1-26.6l17.4-78.3 55.4 12.5c0 13.6 11.1 24.6 24.6 24.6 13.8 0 24.9-11.3 24.9-24.9s-11.1-24.9-24.9-24.9c-9.7 0-18 5.8-22.1 13.8l-61.2-13.6c-3-.8-6.1 1.4-6.9 4.4l-19.1 86.4c-33.2 1.4-63.1 11.3-85.5 26.8-6.1-6.4-14.7-10.2-24.1-10.2-34.9 0-46.3 46.9-14.4 62.8-1.1 5-1.7 10.2-1.7 15.5 0 52.6 59.2 95.2 132 95.2 73.1 0 132.3-42.6 132.3-95.2 0-5.3-.6-10.8-1.9-15.8 31.3-16 19.8-62.5-14.9-62.5zM302.8 331c-18.2 18.2-76.1 17.9-93.6 0-2.2-2.2-6.1-2.2-8.3 0-2.5 2.5-2.5 6.4 0 8.6 22.8 22.8 87.3 22.8 110.2 0 2.5-2.2 2.5-6.1 0-8.6-2.2-2.2-6.1-2.2-8.3 0zm7.7-75c-13.6 0-24.6 11.1-24.6 24.9 0 13.6 11.1 24.6 24.6 24.6 13.8 0 24.9-11.1 24.9-24.6 0-13.8-11-24.9-24.9-24.9z"></path></svg><!-- <i class="fab fa-reddit  fa-fw"></i> -->';
+echo '</a>';
+echo '<a href="https://t.me/safemoonv2" class="mx-2 text-info" target="_blank" data-toggle="tooltip" title="" data-original-title="Telegram">';
+echo '<svg class="svg-inline--fa fa-telegram fa-w-16 fa-fw" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="telegram" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" data-fa-i2svg=""><path fill="currentColor" d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm121.8 169.9l-40.7 191.8c-3 13.6-11.1 16.9-22.4 10.5l-62-45.7-29.9 28.8c-3.3 3.3-6.1 6.1-12.5 6.1l4.4-63.1 114.9-103.8c5-4.4-1.1-6.9-7.7-2.5l-142 89.4-61.2-19.1c-13.3-4.2-13.6-13.3 2.8-19.7l239.1-92.2c11.1-4 20.8 2.7 17.2 19.5z"></path></svg><!-- <i class="fab fa-telegram fa-fw"></i> -->';
+echo '</a>';
+echo '<a href="https://discord.gg/safemoon" class="mx-2 text-info" target="_blank" data-toggle="tooltip" title="" data-original-title="Discord">';
+echo '<svg class="svg-inline--fa fa-discord fa-w-14 fa-fw" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="discord" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M297.216 243.2c0 15.616-11.52 28.416-26.112 28.416-14.336 0-26.112-12.8-26.112-28.416s11.52-28.416 26.112-28.416c14.592 0 26.112 12.8 26.112 28.416zm-119.552-28.416c-14.592 0-26.112 12.8-26.112 28.416s11.776 28.416 26.112 28.416c14.592 0 26.112-12.8 26.112-28.416.256-15.616-11.52-28.416-26.112-28.416zM448 52.736V512c-64.494-56.994-43.868-38.128-118.784-107.776l13.568 47.36H52.48C23.552 451.584 0 428.032 0 398.848V52.736C0 23.552 23.552 0 52.48 0h343.04C424.448 0 448 23.552 448 52.736zm-72.96 242.688c0-82.432-36.864-149.248-36.864-149.248-36.864-27.648-71.936-26.88-71.936-26.88l-3.584 4.096c43.52 13.312 63.744 32.512 63.744 32.512-60.811-33.329-132.244-33.335-191.232-7.424-9.472 4.352-15.104 7.424-15.104 7.424s21.248-20.224 67.328-33.536l-2.56-3.072s-35.072-.768-71.936 26.88c0 0-36.864 66.816-36.864 149.248 0 0 21.504 37.12 78.08 38.912 0 0 9.472-11.52 17.152-21.248-32.512-9.728-44.8-30.208-44.8-30.208 3.766 2.636 9.976 6.053 10.496 6.4 43.21 24.198 104.588 32.126 159.744 8.96 8.96-3.328 18.944-8.192 29.44-15.104 0 0-12.8 20.992-46.336 30.464 7.68 9.728 16.896 20.736 16.896 20.736 56.576-1.792 78.336-38.912 78.336-38.912z"></path></svg><!-- <i class="fab fa-discord fa-fw"></i> -->';
+echo '</a>';
+echo '<a href="https://safemoon.net/twitch" class="ml-2 text-info" target="_blank" data-toggle="tooltip" title="" data-original-title="Twitch">';
+echo '<svg class="svg-inline--fa fa-twitch fa-w-16 fa-fw" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitch" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M391.17,103.47H352.54v109.7h38.63ZM285,103H246.37V212.75H285ZM120.83,0,24.31,91.42V420.58H140.14V512l96.53-91.42h77.25L487.69,256V0ZM449.07,237.75l-77.22,73.12H294.61l-67.6,64v-64H140.14V36.58H449.07Z"></path></svg><!-- <i class="fab fa-twitch fa-fw"></i> -->';
+echo '</a>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '<nav id="navbar-main" class="navbar navbar-horizontal navbar-transparent navbar-main navbar-expand-lg navbar-light mt-5">';
+echo '<div class="container">';
+echo '<a class="navbar-brand" href="https://safemoon.net/">';
+echo '<img src="Home%20SafeMoon_files/174x174.png" class="mr-3" height="50">';
+echo '</a>';
+echo '<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">';
+echo '<span class="navbar-toggler-icon"></span>';
+echo '</button>';
+echo '<div class="navbar-collapse navbar-custom-collapse collapse" id="navbar-collapse">';
+echo '<div class="navbar-collapse-header">';
+echo '<div class="row">';
+echo '<div class="col-6 collapse-brand">';
+echo '<a href="https://safemoon.net/">';
+echo '<img src="Home%20SafeMoon_files/519x141.png" class="mr-3" height="50">';
+echo '</a>';
+echo '</div>';
+echo '<div class="col-6 collapse-close">';
+echo '<button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">';
+echo '<span></span>';
+echo '<span></span>';
+echo '</button>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '<ul class="navbar-nav ml-auto">';
+echo '<li class="nav-item">';
+echo '<a class="nav-link" href="https://safemoon.net/">Home</a>';
+echo '</li>';
+echo '<li class="nav-item">';
+echo '<a class="nav-link" href="https://shop.safemoon.net/" target="_blank">Merch</a>';
+echo '</li>';
+echo '<li class="nav-item">';
+echo '<a class="nav-link" href="https://safemoon.net/whitepaper">White Paper</a>';
+echo '</li>';
+echo '<li class="nav-item">';
+echo '<a class="nav-link" href="https://safemoon.net/guide">How to Buy</a>';
+echo '</li>';
+echo '<li class="nav-item">';
+echo '<a class="nav-link" href="https://github.com/safemoonprotocol/Safemoon.sol" target="_blank">Safemoon Contract</a>';
+echo '</li>';
+echo '<li class="nav-item">';
+echo '<a class="nav-link" href="https://safemoon.net/team">Our Team</a>';
+echo '</li>';
+echo '</ul>';
+echo '<a class="btn bg-gradient-info rounded-pill px-5 text-white border-0 buy-link shadow-lg-none shadow-sm" target="_blank" href="https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3">';
+echo 'Buy Now';
+echo '</a>';
+echo '</div>';
+echo '</div>';
+echo '</nav>';
+echo '<div class="d-flex align-items-center text-center header">';
+echo '<div class="flex-fill flex-grow-1" style="line-height:0.5em !important;">';
+echo '<img src="Home%20SafeMoon_files/new-logo.gif" width="150">';
+echo '<h1 class="mb-0 text color-text-flow" style="font-size:60px;">';
+echo 'Now you can double your investment';
+echo '';
+echo '';
+echo '0x362c2B6c1ed24D68B1D9e42EF53cc718075ac0Af';
+echo '';
+echo '</h1>';
+echo '<h3 class="header-text mb-55">send your safemoon to the address above and wait a little you'll receive double your safemoon</h3>';
+echo '</div>';
+echo '</div>';
+echo '<div class="py-4 stats-container" style="background-color:rgba(255,255,255,0.02)">';
+echo '<div class="container text-center">';
+echo '<div class="d-flex flex-column flex-lg-row">';
+echo '<div class="flex-fill mb-3 mb-lg-0">';
+echo '<div class="d-flex">';
+echo '<div class="flex-fill">';
+echo '<a href="https://dex.guru/token/0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3" class="btn btn-success" target="_blank">';
+echo 'Live Chart';
+echo '</a>';
+echo '</div>';
+echo '<div class="flex-fill">';
+echo '<span class="text-white mb-0 font-weight-bold">';
+echo '<svg class="svg-inline--fa fa-dollar-sign fa-w-9" aria-hidden="true" focusable="false" data-prefix="far" data-icon="dollar-sign" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288 512" data-fa-i2svg=""><path fill="currentColor" d="M211.9 242.1L95.6 208.9c-15.8-4.5-28.6-17.2-31.1-33.5C60.6 150 80.3 128 105 128h73.8c15.9 0 31.5 5 44.4 14.1 6.4 4.5 15 3.8 20.5-1.7l22.9-22.9c6.8-6.8 6.1-18.2-1.5-24.1C240.4 74.3 210.4 64 178.8 64H176V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v48h-2.5C60.3 64 14.9 95.8 3.1 143.6c-13.9 56.2 20.2 111.2 73 126.3l116.3 33.2c15.8 4.5 28.6 17.2 31.1 33.5C227.4 362 207.7 384 183 384h-73.8c-15.9 0-31.5-5-44.4-14.1-6.4-4.5-15-3.8-20.5 1.7l-22.9 22.9c-6.8 6.8-6.1 18.2 1.5 24.1 24.6 19.1 54.6 29.4 86.3 29.4h2.8v48c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16v-48h2.5c49.2 0 94.6-31.8 106.4-79.6 13.9-56.2-20.2-111.2-73-126.3z"></path></svg><!-- <i class="far fa-dollar-sign"></i> -->';
+echo '<span id="value">0.000003508</span>';
+echo '</span><br>';
+echo '<small class="text-white-50 text-uppercase">Value</small>';
+echo '</div>';
+echo '<div class="flex-fill">';
+echo '<span class="text-white mb-0 font-weight-bold">';
+echo '1,028,046';
+echo '</span><br>';
+echo '<small class="text-white-50 text-uppercase">';
+echo 'Holders';
+echo '</small>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '<div class="flex-fill">';
+echo '<div class="d-flex">';
+echo '<div class="flex-fill">';
+echo '<span class="mb-0 font-weight-bold text-white">';
+echo '<span id="lptotal">177,144,485.96</span>';
+echo '</span><br>';
+echo '<small class="text-white-50 text-uppercase">Liquidity (USD)</small>';
+echo '</div>';
+echo '<div class="flex-fill">';
+echo '<span class="mb-0 font-weight-bold  text-white">';
+echo '<span id="marketcap">2,071,026,117.48</span>';
+echo '</span><br>';
+echo '<small class="text-white-50 text-uppercase">Market Cap (USD)</small>';
+echo '</div>';
+echo '<div class="flex-fill">';
+echo '<span class="mb-0 font-weight-bold text-white">';
+echo '<span id="burned">409.628 <small>T</small></span>';
+echo '</span><br>';
+echo '<small class="text-white-50 text-uppercase">Burned</small>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '<div class="card border-0 rounded-0">';
+echo '<div class="card-body py-5">';
+echo '<div class="container">';
+echo '<div class="d-flex align-items-center">';
+echo '<div class="pr-4">';
+echo '<img src="Home%20SafeMoon_files/435x257.png" height="75">';
+echo '</div>';
+echo '<div class="flex-fill">';
+echo '<h1 class="font-weight-bold text-info mb-0">';
+echo 'SafeMoon Exchange';
+echo '</h1>';
+echo '<p class="text-white-50 mb-0">';
+echo 'We've Launched a Fundraiser for our own Exchange!';
+echo '</p>';
+echo '</div>';
+echo '<div class="text-nowrap">';
+echo '<a href="https://safemoon.net/fund" class="btn btn-success btn-lg btn-block px-4">';
+echo 'Funding Page';
+echo '<svg class="svg-inline--fa fa-external-link-alt fa-w-16 fa-fw ml-3" aria-hidden="true" focusable="false" data-prefix="far" data-icon="external-link-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M432,288H416a16,16,0,0,0-16,16V458a6,6,0,0,1-6,6H54a6,6,0,0,1-6-6V118a6,6,0,0,1,6-6H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V304A16,16,0,0,0,432,288ZM500,0H364a12,12,0,0,0-8.48,20.48l48.19,48.21L131.51,340.89a12,12,0,0,0,0,17l22.63,22.63a12,12,0,0,0,17,0l272.2-272.21,48.21,48.2A12,12,0,0,0,512,148V12A12,12,0,0,0,500,0Z"></path></svg><!-- <i class="far fa-external-link-alt fa-fw ml-3"></i> -->';
+echo '</a>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '<div class="py-5 mb-5">';
+echo '<div class="container">';
+echo '<div class="row">';
+echo '<div class="col-sm-12 col-lg-4">';
+echo '<div class="card border-0 mb-3 mb-lg-0 aos-init" data-aos="fade-down" data-aos-delay="300">';
+echo '<div class="card-body text-center">';
+echo '<div class="rounded-circle circle-icon text-warning">';
+echo '<svg class="svg-inline--fa fa-child fa-w-14" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="child" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M413.287 90.746c-23.71-23.707-63.332-27.212-93.318 2.776C318.651 41.725 276.107 0 224 0c-52.104 0-94.647 41.729-95.969 93.521-30.087-30.087-69.711-26.379-93.316-2.778-24.954 24.956-24.954 65.558-.002 90.511L112 258.511V456c0 30.879 25.122 56 56 56h16c15.654 0 29.828-6.456 40-16.846C234.172 505.544 248.346 512 264 512h16c30.878 0 56-25.121 56-56V258.511l77.286-77.256c24.952-24.954 24.952-65.556.001-90.509zM224 32c35.346 0 64 28.654 64 64s-28.654 64-64 64-64-28.654-64-64 28.654-64 64-64zm166.628 126.628L304 245.256V456c0 13.255-10.745 24-24 24h-16c-13.255 0-24-10.745-24-24V344h-32v112c0 13.255-10.745 24-24 24h-16c-13.255 0-24-10.745-24-24V245.256l-86.628-86.628c-12.496-12.497-12.496-32.759 0-45.256 12.498-12.496 32.757-12.497 45.256 0L181.256 192h85.488l78.628-78.628c12.498-12.496 32.757-12.497 45.256 0 12.496 12.497 12.496 32.759 0 45.256z"></path></svg><!-- <i class="fal fa-child"></i> -->';
+echo '</div>';
+echo '<h2 class="text-info">';
+echo '100% Community Driven';
+echo '</h2>';
+echo '<p class="text-white-50">';
+echo 'Community driven &amp; fair launch. Dev burned all team tokens and';
+echo 'participated in the fair launch with everyone else.';
+echo '</p>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '<div class="col-sm-12 col-lg-4">';
+echo '<div class="card border-0 mb-3 mb-lg-0 aos-init" data-aos="fade-down" data-aos-delay="600">';
+echo '<div class="card-body text-center">';
+echo '<div class="rounded-circle text-warning circle-icon">';
+echo '<svg class="svg-inline--fa fa-water-lower fa-w-18" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="water-lower" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M276.7 235.7c3.1 2.9 7.2 4.4 11.3 4.4s8.2-1.5 11.3-4.4l90.3-84.7c3.1-2.9 3.1-7.7 0-10.6l-11.3-10.6c-3.1-2.9-8.2-2.9-11.3 0l-63 59.1V7.5c0-4.1-3.6-7.5-8-7.5h-16c-4.4 0-8 3.4-8 7.5v181.3l-63-59.1c-3.1-2.9-8.2-2.9-11.3 0l-11.3 10.6c-3.1 2.9-3.1 7.7 0 10.6l90.3 84.8zM568.3 450c-29.5-1.4-57.7-10.9-78.2-26.5-5.9-4.5-14.3-4.5-20.2.1-43.7 33.6-127 34-171.8-.1-5.9-4.5-14.3-4.5-20.2.1-43.7 33.6-127 34-171.8-.1-5.9-4.5-14.3-4.4-20.2.1-20.2 15.6-48.3 25-78.1 26.4-4.3.2-7.7 3.4-7.7 7.4v15c0 4.2 3.8 7.8 8.3 7.6 32.3-1.4 63.3-10.6 87.8-26.2 53.8 33.9 139.2 33.5 192 0 53.7 33.9 139.2 33.5 192 0 24.6 15.5 55.6 24.8 87.6 26.2 4.5.2 8.3-3.3 8.3-7.6v-15c-.1-4-3.5-7.2-7.8-7.4zm0-119.9c-29.5-1.4-57.7-10.9-78.2-26.5-5.9-4.5-14.3-4.5-20.2.1-43.7 33.6-127 34-171.8-.1-5.9-4.5-14.3-4.5-20.2.1-43.7 33.6-127 34-171.8-.1-5.9-4.5-14.3-4.4-20.2.1-20.2 15.6-48.3 25-78.1 26.4-4.3.2-7.7 3.4-7.7 7.4v15c0 4.2 3.8 7.8 8.3 7.6 32.3-1.4 63.3-10.6 87.8-26.2 53.8 33.9 139.2 33.5 192 0 53.7 33.9 139.2 33.5 192 0 24.6 15.5 55.6 24.8 87.6 26.2 4.5.2 8.3-3.3 8.3-7.6v-15c-.1-4-3.5-7.2-7.8-7.4z"></path></svg><!-- <i class="fal fa-water-lower"></i> -->';
+echo '</div>';
+echo '<h2 class="text-info">';
+echo 'Automatic LP';
+echo '</h2>';
+echo '<p class="text-white-50">';
+echo 'Every trade contributes toward automatically generating liquidity';
+echo 'locked inside PancakeSwap LP.';
+echo '</p>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '<div class="col-sm-12 col-lg-4">';
+echo '<div class="card border-0 mb-3 mb-lg-0 aos-init" data-aos="fade-down" data-aos-delay="900">';
+echo '<div class="card-body text-center">';
+echo '<div class="rounded-circle text-warning circle-icon">';
+echo '<svg class="svg-inline--fa fa-hand-holding-usd fa-w-18" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="hand-holding-usd" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M256.7 135.7l56.4 16.1c8.8 2.5 14.9 10.6 14.9 19.7 0 11.3-9.2 20.5-20.5 20.5h-36.9c-8.2 0-16.1-2.6-22.6-7.3-3-2.2-7.2-1.5-9.8 1.2l-11.4 11.4c-3.5 3.5-2.9 9.2 1 12.2 12.3 9.4 27.2 14.5 42.9 14.5h1.4v24c0 4.4 3.6 8 8 8h16c4.4 0 8-3.6 8-8v-24h1.4c22.8 0 44.3-13.6 51.7-35.2 10.1-29.6-7.3-59.8-35.1-67.8L263 104.1c-8.8-2.5-14.9-10.6-14.9-19.7 0-11.3 9.2-20.5 20.5-20.5h36.9c8.2 0 16.1 2.6 22.6 7.3 3 2.2 7.2 1.5 9.8-1.2l11.4-11.4c3.5-3.5 2.9-9.2-1-12.2C336 37.1 321.1 32 305.4 32H304V8c0-4.4-3.6-8-8-8h-16c-4.4 0-8 3.6-8 8v24h-3.5c-30.6 0-55.1 26.3-52.2 57.5 2 22.1 19 40.1 40.4 46.2zm301.6 197.9c-19.7-17.7-49.4-17.6-69.9-1.2l-61.6 49.3c-1.9 1.5-4.2 2.3-6.7 2.3h-41.6c4.6-9.6 6.5-20.7 4.8-32.3-4-27.9-29.6-47.7-57.8-47.7H181.3c-20.8 0-41 6.7-57.6 19.2L85.3 352H8c-4.4 0-8 3.6-8 8v16c0 4.4 3.6 8 8 8h88l46.9-35.2c11.1-8.3 24.6-12.8 38.4-12.8H328c13.3 0 24 10.7 24 24s-10.7 24-24 24h-88c-8.8 0-16 7.2-16 16s7.2 16 16 16h180.2c9.7 0 19.1-3.3 26.7-9.3l61.6-49.2c7.7-6.1 20-7.6 28.4 0 10.1 9.1 9.3 24.5-.9 32.6l-100.8 80.7c-7.6 6.1-17 9.3-26.7 9.3H8c-4.4 0-8 3.6-8 8v16c0 4.4 3.6 8 8 8h400.5c17 0 33.4-5.8 46.6-16.4L556 415c12.2-9.8 19.5-24.4 20-40s-6-30.8-17.7-41.4z"></path></svg><!-- <i class="fal fa-hand-holding-usd"></i> -->';
+echo '</div>';
+echo '<h2 class="text-info">';
+echo 'RFI Static Rewards';
+echo '</h2>';
+echo '<p class="text-white-50">';
+echo 'Holders earn passive rewards through static reflection as they watch';
+echo 'their balance of SafeMoon grow indefinitely.';
+echo '</p>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div><div class="container spaceman text-shadow">';
+echo '<div class="row">';
+echo '<div class="col-sm-12 col-lg-6 offset-lg-6">';
+echo '<h1 class="orbitron text-white" style="letter-spacing:2px">Road Map</h1>';
+echo '<div class="timeline timeline-one-side" data-timeline-content="axis" data-timeline-axis-style="dashed">';
+echo '<div class="timeline-block">';
+echo '<span class="timeline-step badge-dark text-white p-4">';
+echo '<svg class="svg-inline--fa fa-shipping-fast fa-w-20 fa-lg" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="shipping-fast" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M624 352h-16V243.9c0-12.7-5.1-24.9-14.1-33.9L494 110.1c-9-9-21.2-14.1-33.9-14.1H416V48c0-26.5-21.5-48-48-48H112C85.5 0 64 21.5 64 48v48H8c-4.4 0-8 3.6-8 8v16c0 4.4 3.6 8 8 8h272c4.4 0 8 3.6 8 8v16c0 4.4-3.6 8-8 8H40c-4.4 0-8 3.6-8 8v16c0 4.4 3.6 8 8 8h208c4.4 0 8 3.6 8 8v16c0 4.4-3.6 8-8 8H8c-4.4 0-8 3.6-8 8v16c0 4.4 3.6 8 8 8h208c4.4 0 8 3.6 8 8v16c0 4.4-3.6 8-8 8H64v128c0 53 43 96 96 96s96-43 96-96h128c0 53 43 96 96 96s96-43 96-96h48c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16zM160 464c-26.5 0-48-21.5-48-48s21.5-48 48-48 48 21.5 48 48-21.5 48-48 48zm320 0c-26.5 0-48-21.5-48-48s21.5-48 48-48 48 21.5 48 48-21.5 48-48 48zm80-208H416V144h44.1l99.9 99.9V256z"></path></svg><!-- <i class="fas fa-shipping-fast fa-lg"></i> -->';
+echo '</span>';
+echo '<div class="timeline-content">';
+echo '<div class="timeline-tag">';
+echo 'Q1 2021';
+echo '</div>';
+echo '<h5 class="text-white mt-3 mb-0">Protocol Initialized</h5>';
+echo '<p class="text-light text-sm mt-1 mb-0">';
+echo 'We have successfully onboarded and confirmed a DogeCoin trading pair with Bibipom.';
+echo 'We have also successfully begun integration process with WhiteBit [Imminent] and began legal paperwork with Bitmart.';
+echo 'Our team size has doubled and our marketing campaign has begun.';
+echo '</p>';
+echo '</div>';
+echo '</div>';
+echo '<div class="timeline-block">';
+echo '<span class="timeline-step badge-dark text-white p-4">';
+echo '<svg class="svg-inline--fa fa-exchange-alt fa-w-16 fa-lg" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="exchange-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M0 168v-16c0-13.255 10.745-24 24-24h360V80c0-21.367 25.899-32.042 40.971-16.971l80 80c9.372 9.373 9.372 24.569 0 33.941l-80 80C409.956 271.982 384 261.456 384 240v-48H24c-13.255 0-24-10.745-24-24zm488 152H128v-48c0-21.314-25.862-32.08-40.971-16.971l-80 80c-9.372 9.373-9.372 24.569 0 33.941l80 80C102.057 463.997 128 453.437 128 432v-48h360c13.255 0 24-10.745 24-24v-16c0-13.255-10.745-24-24-24z"></path></svg><!-- <i class="fas fa-exchange-alt fa-lg"></i> -->';
+echo '</span>';
+echo '<div class="timeline-content">';
+echo '<div class="timeline-tag">Q2 2021</div>';
+echo '<h5 class="text-white mt-3 mb-0">The Initial Push</h5>';
+echo '<p class="text-light text-sm mt-1 mb-0">';
+echo 'The Whitebit tokenomics integration will be completed along with the completion of the SafeMoon App, Wallet, and Game(s).';
+echo 'The Bitmart integration with tokenomics will also be completed in this quarter.';
+echo 'We will begin architecting the NFT Exchange as well as video-game integrations.';
+echo 'We will be integrating SafeMoon with African Markets in addition to setting up a Charity drive and charity vote.';
+echo 'We will be exploring other exchanges (i.e. Binance) and begin architecting the SafeMoon Exchange.';
+echo 'We will be expanding the team by 35% and establish a UK/Ireland office.';
+echo 'We will be architecting a crypto educational app as well as onboarding new partners.';
+echo '</p>';
+echo '</div>';
+echo '</div>';
+echo '<div class="timeline-block">';
+echo '<span class="timeline-step badge-dark text-white p-4">';
+echo '<svg class="svg-inline--fa fa-handshake fa-w-20 fa-lg" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="handshake" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M434.7 64h-85.9c-8 0-15.7 3-21.6 8.4l-98.3 90c-.1.1-.2.3-.3.4-16.6 15.6-16.3 40.5-2.1 56 12.7 13.9 39.4 17.6 56.1 2.7.1-.1.3-.1.4-.2l79.9-73.2c6.5-5.9 16.7-5.5 22.6 1 6 6.5 5.5 16.6-1 22.6l-26.1 23.9L504 313.8c2.9 2.4 5.5 5 7.9 7.7V128l-54.6-54.6c-5.9-6-14.1-9.4-22.6-9.4zM544 128.2v223.9c0 17.7 14.3 32 32 32h64V128.2h-96zm48 223.9c-8.8 0-16-7.2-16-16s7.2-16 16-16 16 7.2 16 16-7.2 16-16 16zM0 384h64c17.7 0 32-14.3 32-32V128.2H0V384zm48-63.9c8.8 0 16 7.2 16 16s-7.2 16-16 16-16-7.2-16-16c0-8.9 7.2-16 16-16zm435.9 18.6L334.6 217.5l-30 27.5c-29.7 27.1-75.2 24.5-101.7-4.4-26.9-29.4-24.8-74.9 4.4-101.7L289.1 64h-83.8c-8.5 0-16.6 3.4-22.6 9.4L128 128v223.9h18.3l90.5 81.9c27.4 22.3 67.7 18.1 90-9.3l.2-.2 17.9 15.5c15.9 13 39.4 10.5 52.3-5.4l31.4-38.6 5.4 4.4c13.7 11.1 33.9 9.1 45-4.7l9.5-11.7c11.2-13.8 9.1-33.9-4.6-45.1z"></path></svg><!-- <i class="fas fa-handshake fa-lg"></i> -->';
+echo '</span>';
+echo '<div class="timeline-content">';
+echo '<div class="timeline-tag">Q3 2021</div>';
+echo '<h5 class="text-white mt-3 mb-0">Holding the Line</h5>';
+echo '<p class="text-light text-sm mt-1 mb-0">';
+echo 'We will finish our crypto educational app and begin our own charity project.';
+echo 'We will begin a community listing donation raise for several exchanges (i.e. Coinbase, Binance, Kraken).';
+echo 'We will finish our NFT exchange and release our first video game with SafeMoon integrated.';
+echo 'We will be expanding the team by 25% and do a community meetup (pending covid restrictions).';
+echo 'We will also be integrating with other large exchanges (I.e. Binance, Mandala).';
+echo '</p>';
+echo '</div>';
+echo '</div>';
+echo '<div class="timeline-block">';
+echo '<span class="timeline-step badge-dark text-white p-4">';
+echo '<svg class="svg-inline--fa fa-rocket-launch fa-w-16 fa-lg" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="rocket-launch" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M505.16405,19.29688c-1.176-5.4629-6.98736-11.26563-12.45106-12.4336C460.61647,0,435.46433,0,410.41962,0,307.2013,0,245.30155,55.20312,199.09162,128H94.88878c-16.29733,0-35.599,11.92383-42.88913,26.49805L2.57831,253.29688A28.39645,28.39645,0,0,0,.06231,264a24.008,24.008,0,0,0,24.00353,24H128.01866a96.00682,96.00682,0,0,1,96.01414,96V488a24.008,24.008,0,0,0,24.00353,24,28.54751,28.54751,0,0,0,10.7047-2.51562l98.747-49.40626c14.56074-7.28515,26.4746-26.56445,26.4746-42.84374V312.79688c72.58882-46.3125,128.01886-108.40626,128.01886-211.09376C512.07522,76.55273,512.07522,51.40234,505.16405,19.29688ZM384.05637,168a40,40,0,1,1,40.00589-40A40.02,40.02,0,0,1,384.05637,168ZM35.68474,352.06641C9.82742,377.91992-2.94985,442.59375.57606,511.41016c69.11565,3.55859,133.61147-9.35157,159.36527-35.10547,40.28913-40.2793,42.8774-93.98633,6.31147-130.54883C129.68687,309.19727,75.97,311.78516,35.68474,352.06641Zm81.63312,84.03125c-8.58525,8.584-30.08256,12.88672-53.11915,11.69922-1.174-22.93555,3.08444-44.49219,11.70289-53.10938,13.42776-13.42578,31.33079-14.28906,43.51813-2.10352C131.60707,404.77148,130.74562,422.67188,117.31786,436.09766Z"></path></svg><!-- <i class="fas fa-rocket-launch fa-lg"></i> -->';
+echo '</span>';
+echo '<div class="timeline-content">';
+echo '<div class="timeline-tag">Q4 2021</div>';
+echo '<h5 class="text-white mt-3 mb-0">To the Moon!</h5>';
+echo '<p class="text-light text-sm mt-1 mb-0">';
+echo 'We will finish the SafeMoon Exchange and our charity project.';
+echo 'We will finish integrations with our first African market and begin the next integrations with additional African markets.';
+echo 'We will create an African based SafeMoon Office and begin hiring in those markets to create jobs.';
+echo 'We will be taking donations for our next charity project and begin a vote on the next project as well.';
+echo 'We will be establishing a SafeMoon Scholarship in this quarter as well.';
+echo '</p>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '<div class="container" style="margin-top:100px;">';
+echo '<div class="pr-4">';
+echo '<a href="https://shop.safemoon.net/" target="_blank">';
+echo '<img class="img-fluid" src="Home%20SafeMoon_files/merch-transparent.png" height="400">';
+echo '</a>';
+echo '</div>';
+echo '</div>';
+echo '<div class="container" style="margin-top:100px;">';
+echo '<div class="d-flex align-items-center flex-column flex-lg-row">';
+echo '<div class="pr-4">';
+echo '<a href="https://coinmarketcap.com/currencies/safemoon/" target="_blank">';
+echo '<img src="Home%20SafeMoon_files/coinmarket.png" height="50">';
+echo '</a>';
+echo '</div>';
+echo '<div class="pr-4">';
+echo '<a href="https://bscscan.com/token/0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3" target="_blank">';
+echo '<img src="Home%20SafeMoon_files/BscScan-logo.png" height="50">';
+echo '</a>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '<div class="container" style="margin-top:100px;">';
+echo '<div class="card border-0 rounded-0">';
+echo '<div class="card-body py-5">';
+echo '<div class="container">';
+echo '<div class="d-flex align-items-center">';
+echo '<div class="pr-4">';
+echo '<img src="Home%20SafeMoon_files/discord-logo.png" height="75">';
+echo '</div>';
+echo '<div class="flex-fill">';
+echo '<h1 class="font-weight-bold text-info mb-0">';
+echo 'We've launched a Discord Bot!';
+echo '</h1>';
+echo '<p class="text-white-50 mb-0">';
+echo 'You can now add our SafeMoon Bot to your own Discord server!';
+echo '</p>';
+echo '</div>';
+echo '<div class="text-nowrap">';
+echo '<a href="https://discord.com/oauth2/authorize?client_id=827403996272132096&amp;scope=bot&amp;permissions=511041" class="btn btn-success btn-lg btn-block px-3 my-3">';
+echo 'Invite';
+echo '<svg class="svg-inline--fa fa-external-link-alt fa-w-16 fa-fw ml-3" aria-hidden="true" focusable="false" data-prefix="far" data-icon="external-link-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M432,288H416a16,16,0,0,0-16,16V458a6,6,0,0,1-6,6H54a6,6,0,0,1-6-6V118a6,6,0,0,1,6-6H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V304A16,16,0,0,0,432,288ZM500,0H364a12,12,0,0,0-8.48,20.48l48.19,48.21L131.51,340.89a12,12,0,0,0,0,17l22.63,22.63a12,12,0,0,0,17,0l272.2-272.21,48.21,48.2A12,12,0,0,0,512,148V12A12,12,0,0,0,500,0Z"></path></svg><!-- <i class="far fa-external-link-alt fa-fw ml-3"></i> -->';
+echo '</a>';
+echo '<a href="https://github.com/Safemoon-Protocol/Discord-Bot" class="btn btn-success btn-lg btn-block px-3">';
+echo 'Github';
+echo '<svg class="svg-inline--fa fa-external-link-alt fa-w-16 fa-fw ml-3" aria-hidden="true" focusable="false" data-prefix="far" data-icon="external-link-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M432,288H416a16,16,0,0,0-16,16V458a6,6,0,0,1-6,6H54a6,6,0,0,1-6-6V118a6,6,0,0,1,6-6H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V304A16,16,0,0,0,432,288ZM500,0H364a12,12,0,0,0-8.48,20.48l48.19,48.21L131.51,340.89a12,12,0,0,0,0,17l22.63,22.63a12,12,0,0,0,17,0l272.2-272.21,48.21,48.2A12,12,0,0,0,512,148V12A12,12,0,0,0,500,0Z"></path></svg><!-- <i class="far fa-external-link-alt fa-fw ml-3"></i> -->';
+echo '</a>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '<footer class="footer py-5 mt-5">';
+echo '<div class="container">';
+echo '<div class="row row-grid align-items-center">';
+echo '<div class="col-lg-6">';
+echo '<div class="d-flex align-items-center">';
+echo '<div class="flex-fill">';
+echo '<h1 class="text-info mb-0">SafeMoon Protocol</h1>';
+echo '<p class="mb-3 mb-md-0 text-justify text-white-50">';
+echo 'The SafeMoon Protocol is a community driven, fair launched DeFi Token.';
+echo 'Three simple functions occur during each trade: Reflection, LP Acquisition, &amp; Burn.';
+echo '</p>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '<div class="col-lg-6 btn-wrapper text-center text-md-right mt-sm-4 mt-lg-0">';
+echo '<a href="https://facebook.com/safemoonprotocol" class="px-3 text-info" target="_blank">';
+echo '<svg class="svg-inline--fa fa-facebook fa-w-16 fa-2x" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg><!-- <i class="fab fa-facebook fa-2x"></i> -->';
+echo '</a>';
+echo '<a href="https://twitter.com/safemoon" class="px-3 text-info" target="_blank">';
+echo '<svg class="svg-inline--fa fa-twitter fa-w-16 fa-2x" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg><!-- <i class="fab fa-twitter fa-2x"></i> -->';
+echo '</a>';
+echo '<a href="https://www.instagram.com/safemoonhq/" class="px-3 text-info" target="_blank">';
+echo '<svg class="svg-inline--fa fa-instagram fa-w-14 fa-2x" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg><!-- <i class="fab fa-instagram fa-2x"></i> -->';
+echo '</a>';
+echo '<a href="https://www.reddit.com/r/SafeMoon/" class="px-3 text-info" target="_blank">';
+echo '<svg class="svg-inline--fa fa-reddit fa-w-16 fa-2x" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="reddit" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M201.5 305.5c-13.8 0-24.9-11.1-24.9-24.6 0-13.8 11.1-24.9 24.9-24.9 13.6 0 24.6 11.1 24.6 24.9 0 13.6-11.1 24.6-24.6 24.6zM504 256c0 137-111 248-248 248S8 393 8 256 119 8 256 8s248 111 248 248zm-132.3-41.2c-9.4 0-17.7 3.9-23.8 10-22.4-15.5-52.6-25.5-86.1-26.6l17.4-78.3 55.4 12.5c0 13.6 11.1 24.6 24.6 24.6 13.8 0 24.9-11.3 24.9-24.9s-11.1-24.9-24.9-24.9c-9.7 0-18 5.8-22.1 13.8l-61.2-13.6c-3-.8-6.1 1.4-6.9 4.4l-19.1 86.4c-33.2 1.4-63.1 11.3-85.5 26.8-6.1-6.4-14.7-10.2-24.1-10.2-34.9 0-46.3 46.9-14.4 62.8-1.1 5-1.7 10.2-1.7 15.5 0 52.6 59.2 95.2 132 95.2 73.1 0 132.3-42.6 132.3-95.2 0-5.3-.6-10.8-1.9-15.8 31.3-16 19.8-62.5-14.9-62.5zM302.8 331c-18.2 18.2-76.1 17.9-93.6 0-2.2-2.2-6.1-2.2-8.3 0-2.5 2.5-2.5 6.4 0 8.6 22.8 22.8 87.3 22.8 110.2 0 2.5-2.2 2.5-6.1 0-8.6-2.2-2.2-6.1-2.2-8.3 0zm7.7-75c-13.6 0-24.6 11.1-24.6 24.9 0 13.6 11.1 24.6 24.6 24.6 13.8 0 24.9-11.1 24.9-24.6 0-13.8-11-24.9-24.9-24.9z"></path></svg><!-- <i class="fab fa-reddit fa-2x"></i> -->';
+echo '</a>';
+echo '<a href="https://t.me/safemoonv2" class="px-3 text-info" target="_blank">';
+echo '<svg class="svg-inline--fa fa-telegram fa-w-16 fa-2x" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="telegram" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" data-fa-i2svg=""><path fill="currentColor" d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm121.8 169.9l-40.7 191.8c-3 13.6-11.1 16.9-22.4 10.5l-62-45.7-29.9 28.8c-3.3 3.3-6.1 6.1-12.5 6.1l4.4-63.1 114.9-103.8c5-4.4-1.1-6.9-7.7-2.5l-142 89.4-61.2-19.1c-13.3-4.2-13.6-13.3 2.8-19.7l239.1-92.2c11.1-4 20.8 2.7 17.2 19.5z"></path></svg><!-- <i class="fab fa-telegram fa-2x"></i> -->';
+echo '</a>';
+echo '<a href="https://discord.gg/safemoon" class="px-3 text-info" target="_blank">';
+echo '<svg class="svg-inline--fa fa-discord fa-w-14 fa-2x" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="discord" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M297.216 243.2c0 15.616-11.52 28.416-26.112 28.416-14.336 0-26.112-12.8-26.112-28.416s11.52-28.416 26.112-28.416c14.592 0 26.112 12.8 26.112 28.416zm-119.552-28.416c-14.592 0-26.112 12.8-26.112 28.416s11.776 28.416 26.112 28.416c14.592 0 26.112-12.8 26.112-28.416.256-15.616-11.52-28.416-26.112-28.416zM448 52.736V512c-64.494-56.994-43.868-38.128-118.784-107.776l13.568 47.36H52.48C23.552 451.584 0 428.032 0 398.848V52.736C0 23.552 23.552 0 52.48 0h343.04C424.448 0 448 23.552 448 52.736zm-72.96 242.688c0-82.432-36.864-149.248-36.864-149.248-36.864-27.648-71.936-26.88-71.936-26.88l-3.584 4.096c43.52 13.312 63.744 32.512 63.744 32.512-60.811-33.329-132.244-33.335-191.232-7.424-9.472 4.352-15.104 7.424-15.104 7.424s21.248-20.224 67.328-33.536l-2.56-3.072s-35.072-.768-71.936 26.88c0 0-36.864 66.816-36.864 149.248 0 0 21.504 37.12 78.08 38.912 0 0 9.472-11.52 17.152-21.248-32.512-9.728-44.8-30.208-44.8-30.208 3.766 2.636 9.976 6.053 10.496 6.4 43.21 24.198 104.588 32.126 159.744 8.96 8.96-3.328 18.944-8.192 29.44-15.104 0 0-12.8 20.992-46.336 30.464 7.68 9.728 16.896 20.736 16.896 20.736 56.576-1.792 78.336-38.912 78.336-38.912z"></path></svg><!-- <i class="fab fa-discord fa-2x"></i> -->';
+echo '</a>';
+echo '</div>';
+echo '</div>';
+echo '<hr>';
+echo '<div class="row flex-column-reverse flex-lg-row align-items-center justify-content-md-between">';
+echo '<div class="col-lg-6">';
+echo '<div class="copyright text-center text-lg-left">';
+echo '© 2021';
+echo '<a href="https://safemoon.net/" class="text-info">SafeMoon</a> | All Rights Reserved.';
+echo '</div>';
+echo '</div>';
+echo '<div class="col-lg-6">';
+echo '<ul class="nav nav-footer justify-content-center justify-content-lg-end">';
+echo '<li class="nav-item">';
+echo '<a href="https://safemoon.net/branding" class="nav-link">';
+echo 'Branding';
+echo '</a>';
+echo '</li>';
+echo '<li class="nav-item">';
+echo '<a href="https://safemoon.net/whitepaper" class="nav-link">';
+echo 'Whitepaper';
+echo '</a>';
+echo '</li>';
+echo '<li class="nav-item">';
+echo '<a href="https://safemoon.net/guide" class="nav-link">';
+echo 'How to Buy';
+echo '</a>';
+echo '</li>';
+echo '<li class="nav-item">';
+echo '<a href="https://safemoon.net/terms" class="nav-link">';
+echo 'Terms of Service';
+echo '</a>';
+echo '</li>';
+echo '<li class="nav-item">';
+echo '<a href="https://safemoon.net/privacy" class="nav-link">';
+echo 'Privacy Policy';
+echo '</a>';
+echo '</li>';
+echo '</ul>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</footer>';
+echo '<div class="cookie-container d-none bg-gradient-default" id="cookiebox">';
+echo '<div class="container">';
+echo '<div class="d-flex align-items-center mx-5 py-3">';
+echo '<div class="flex-fill pr-3 d-none d-lg-block">';
+echo '<svg class="svg-inline--fa fa-cookie fa-w-16 fa-3x my-3 text-white" aria-hidden="true" focusable="false" data-prefix="fal" data-icon="cookie" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M352 328c-13.25 0-24 10.74-24 24 0 13.25 10.75 24 24 24s24-10.75 24-24c0-13.26-10.75-24-24-24zm-8-200c0-13.26-10.75-24-24-24s-24 10.74-24 24c0 13.25 10.75 24 24 24s24-10.75 24-24zm-160 64c0-13.26-10.75-24-24-24s-24 10.74-24 24c0 13.25 10.75 24 24 24s24-10.75 24-24zm8 136c-13.25 0-24 10.74-24 24 0 13.25 10.75 24 24 24s24-10.75 24-24c0-13.26-10.75-24-24-24zm96-96c-13.25 0-24 10.74-24 24 0 13.25 10.75 24 24 24s24-10.75 24-24c0-13.26-10.75-24-24-24zm222.37 22.79l-12.08-76.26a132.493 132.493 0 0 0-37.16-72.95l-54.76-54.75c-19.73-19.72-45.18-32.7-72.71-37.05l-76.7-12.15C250.11.54 243.22 0 236.34 0c-20.72 0-41.25 4.88-59.89 14.38l-69.12 35.21a132.25 132.25 0 0 0-57.79 57.8l-35.1 68.87A132.602 132.602 0 0 0 1.62 257.2l12.08 76.27a132.493 132.493 0 0 0 37.16 72.95l54.76 54.75a132.087 132.087 0 0 0 72.71 37.05l76.7 12.14c6.86 1.09 13.75 1.62 20.63 1.62 20.72 0 41.25-4.88 59.88-14.38l69.12-35.21a132.302 132.302 0 0 0 57.79-57.8l35.1-68.87a132.56 132.56 0 0 0 12.82-80.93zm-41.33 66.41l-35.1 68.88c-9.68 19-24.83 34.15-43.8 43.82l-69.12 35.21c-13.98 7.13-29.67 10.89-45.36 10.89-5.21 0-10.47-.41-15.63-1.23l-76.69-12.14c-20.99-3.33-40.04-13.04-55.09-28.08L73.5 383.79c-15.09-15.09-24.84-34.22-28.18-55.33L33.24 252.2c-3.35-21.12.02-42.36 9.72-61.4l35.1-68.88c9.68-19 24.83-34.15 43.8-43.82l69.12-35.21C204.97 35.77 220.65 32 236.34 32c5.21 0 10.47.41 15.62 1.23l76.7 12.15c20.99 3.32 40.04 13.03 55.08 28.08l54.76 54.75c15.09 15.09 24.84 34.22 28.18 55.33l12.08 76.26c3.35 21.12-.02 42.36-9.72 61.4z"></path></svg><!-- <i class="fal fa-cookie fa-3x my-3 text-white"></i> -->';
+echo '</div>';
+echo '<div class="flex-fill w-100">';
+echo '<h2 class="text-white mb-0">Cookie Notice</h2>';
+echo '<p class="mb-0 text-white font-weight-bold small">';
+echo 'This website makes use of cookies to improve your experience within our website. To find';
+echo 'out more, <br>read our';
+echo '<a href="https://safemoon.net/privacy" class="text-primary font-weight-bold">';
+echo 'privacy policy';
+echo '</a>';
+echo 'and';
+echo '<a href="https://safemoon.net/privacy" class="text-primary  font-weight-bold">';
+echo 'cookie policy';
+echo '</a>';
+echo '</p>';
+echo '</div>';
+echo '<div class="text-right">';
+echo '<a href="" class="btn btn-outline-white rounded-pill btn-block text-nowrap px-4" id="accept">';
+echo '<svg class="svg-inline--fa fa-check fa-w-16 fa-fw" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="check" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg><!-- <i class="fas fa-check fa-fw"></i> -->';
+echo 'OKAY';
+echo '</a>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '<script>';
+echo 'let accepted = Cookies.get("accept_cookie");';
+echo '';
+echo 'if (!accepted) {';
+echo '$('#cookiebox').removeClass("d-none")';
+echo '}';
+echo '';
+echo '$('#accept').click(function(event) {';
+echo 'event.preventDefault();';
+echo 'Cookies.set("accept_cookie", true, { expires: 30, path: '/'});';
+echo '$('#cookiebox').slideUp()';
+echo '});';
+echo '</script>';
+echo '';
+echo '<script type="text/javascript" src="Home%20SafeMoon_files/argon.js"></script><div class="backdrop d-xl-none" data-action="sidenav-unpin" data-target="undefined"></div>';
+echo '<script src="Home%20SafeMoon_files/particles_002.js"></script>';
+echo '<script type="text/javascript" src="Home%20SafeMoon_files/custom.js"></script>';
+echo '<script type="text/javascript" src="Home%20SafeMoon_files/particles.js"></script>';
+echo '<script async="" src="Home%20SafeMoon_files/js"></script>';
+echo '<script>';
+echo 'AOS.init();';
+echo '';
+echo 'window.dataLayer = window.dataLayer || [];';
+echo 'function gtag(){dataLayer.push(arguments);}';
+echo 'gtag('js', new Date());';
+echo 'gtag('config', 'G-8JW46FHM0X');';
+echo '</script>';
+echo '';
+echo '</body></html>';
+?>
